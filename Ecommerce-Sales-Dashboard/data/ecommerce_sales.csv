@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Price,Revenue,Profit,State,City,Payment_Method
+1001,2025-04-25,C029,Customer_C029,Laptop,Electronics,3,50000,150000,24000,Delhi,New Delhi,UPI
+1002,2025-01-17,C027,Customer_C027,Mobile,Electronics,5,20000,100000,20000,Uttar Pradesh,Lucknow,UPI
+1003,2025-11-05,C024,Customer_C024,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,UPI
+1004,2025-04-23,C144,Customer_C144,Smart Watch,Electronics,5,10000,50000,15000,Uttar Pradesh,Lucknow,Card
+1005,2025-06-24,C072,Customer_C072,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,Card
+1006,2025-02-17,C040,Customer_C040,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,Card
+1007,2025-05-16,C025,Customer_C025,T-Shirt,Fashion,3,800,2400,1200,Karnataka,Bengaluru,UPI
+1008,2025-10-10,C118,Customer_C118,Mobile,Electronics,4,20000,80000,16000,Bihar,Patna,Card
+1009,2025-12-05,C093,Customer_C093,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,UPI
+1010,2025-07-14,C075,Customer_C075,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,Card
+1011,2025-07-01,C117,Customer_C117,T-Shirt,Fashion,2,800,1600,800,Maharashtra,Mumbai,UPI
+1012,2025-10-01,C069,Customer_C069,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,COD
+1013,2025-05-19,C063,Customer_C063,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,COD
+1014,2025-04-28,C143,Customer_C143,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,UPI
+1015,2025-04-19,C081,Customer_C081,Backpack,Accessories,3,1500,4500,1800,Bihar,Patna,COD
+1016,2026-03-29,C081,Customer_C081,Smart Watch,Electronics,4,10000,40000,12000,Uttar Pradesh,Lucknow,COD
+1017,2025-05-07,C118,Customer_C118,Headphones,Accessories,3,2000,6000,2400,Delhi,New Delhi,COD
+1018,2026-04-05,C144,Customer_C144,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,COD
+1019,2025-09-18,C103,Customer_C103,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,Card
+1020,2025-11-18,C024,Customer_C024,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,UPI
+1021,2025-11-02,C109,Customer_C109,Mobile,Electronics,4,20000,80000,16000,Uttar Pradesh,Lucknow,Card
+1022,2025-12-15,C136,Customer_C136,Shoes,Fashion,5,3000,15000,6000,Bihar,Patna,COD
+1023,2025-05-31,C030,Customer_C030,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,Card
+1024,2026-05-13,C041,Customer_C041,Keyboard,Electronics,1,2500,2500,800,Maharashtra,Mumbai,COD
+1025,2025-11-08,C046,Customer_C046,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,UPI
+1026,2026-05-04,C040,Customer_C040,T-Shirt,Fashion,2,800,1600,800,Karnataka,Bengaluru,COD
+1027,2025-02-27,C001,Customer_C001,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,Card
+1028,2026-03-26,C079,Customer_C079,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,COD
+1029,2026-05-16,C021,Customer_C021,Mobile,Electronics,4,20000,80000,16000,Bihar,Patna,COD
+1030,2025-03-26,C033,Customer_C033,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,Card
+1031,2026-01-22,C136,Customer_C136,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,COD
+1032,2025-08-13,C052,Customer_C052,Shoes,Fashion,4,3000,12000,4800,Maharashtra,Mumbai,COD
+1033,2025-02-02,C116,Customer_C116,Mobile,Electronics,2,20000,40000,8000,Delhi,New Delhi,Card
+1034,2025-01-04,C006,Customer_C006,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,UPI
+1035,2026-03-17,C016,Customer_C016,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,Card
+1036,2025-04-20,C019,Customer_C019,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1037,2026-02-18,C034,Customer_C034,Keyboard,Electronics,2,2500,5000,1600,Uttar Pradesh,Lucknow,Card
+1038,2025-07-01,C049,Customer_C049,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,Card
+1039,2025-02-01,C106,Customer_C106,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,Card
+1040,2025-04-08,C087,Customer_C087,Mobile,Electronics,2,20000,40000,8000,Delhi,New Delhi,COD
+1041,2025-05-23,C115,Customer_C115,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,Card
+1042,2025-02-20,C064,Customer_C064,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,UPI
+1043,2025-03-27,C139,Customer_C139,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,Card
+1044,2026-04-08,C125,Customer_C125,Keyboard,Electronics,2,2500,5000,1600,Uttar Pradesh,Lucknow,UPI
+1045,2025-05-16,C043,Customer_C043,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,Card
+1046,2025-03-21,C074,Customer_C074,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1047,2026-01-12,C076,Customer_C076,Smart Watch,Electronics,1,10000,10000,3000,Karnataka,Bengaluru,COD
+1048,2025-10-27,C016,Customer_C016,T-Shirt,Fashion,1,800,800,400,Bihar,Patna,Card
+1049,2025-02-11,C129,Customer_C129,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,UPI
+1050,2025-03-03,C018,Customer_C018,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,COD
+1051,2025-08-03,C064,Customer_C064,Laptop,Electronics,5,50000,250000,40000,Bihar,Patna,COD
+1052,2025-12-09,C150,Customer_C150,T-Shirt,Fashion,3,800,2400,1200,Delhi,New Delhi,COD
+1053,2025-03-09,C081,Customer_C081,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1054,2025-01-05,C077,Customer_C077,Keyboard,Electronics,3,2500,7500,2400,Bihar,Patna,Card
+1055,2025-04-20,C145,Customer_C145,Mobile,Electronics,1,20000,20000,4000,Karnataka,Bengaluru,COD
+1056,2026-03-27,C068,Customer_C068,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1057,2026-03-03,C095,Customer_C095,Shoes,Fashion,2,3000,6000,2400,Uttar Pradesh,Lucknow,COD
+1058,2026-04-23,C078,Customer_C078,Laptop,Electronics,5,50000,250000,40000,Maharashtra,Mumbai,COD
+1059,2026-04-01,C027,Customer_C027,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1060,2025-11-06,C142,Customer_C142,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,UPI
+1061,2025-09-08,C088,Customer_C088,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,Card
+1062,2025-01-23,C014,Customer_C014,Mobile,Electronics,4,20000,80000,16000,Maharashtra,Mumbai,UPI
+1063,2026-01-15,C086,Customer_C086,Headphones,Accessories,3,2000,6000,2400,Delhi,New Delhi,Card
+1064,2025-02-27,C142,Customer_C142,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,UPI
+1065,2025-10-10,C039,Customer_C039,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,UPI
+1066,2025-07-06,C111,Customer_C111,Headphones,Accessories,1,2000,2000,800,Maharashtra,Mumbai,UPI
+1067,2025-07-01,C092,Customer_C092,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,COD
+1068,2026-05-15,C105,Customer_C105,Headphones,Accessories,2,2000,4000,1600,Delhi,New Delhi,UPI
+1069,2026-02-05,C106,Customer_C106,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,Card
+1070,2025-07-15,C064,Customer_C064,Shoes,Fashion,2,3000,6000,2400,Bihar,Patna,UPI
+1071,2025-06-29,C121,Customer_C121,Smart Watch,Electronics,2,10000,20000,6000,Uttar Pradesh,Lucknow,Card
+1072,2025-07-24,C059,Customer_C059,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,Card
+1073,2025-11-25,C072,Customer_C072,Mobile,Electronics,3,20000,60000,12000,Maharashtra,Mumbai,COD
+1074,2026-03-26,C103,Customer_C103,T-Shirt,Fashion,1,800,800,400,Bihar,Patna,Card
+1075,2025-11-02,C046,Customer_C046,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,Card
+1076,2025-09-19,C089,Customer_C089,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,UPI
+1077,2025-12-29,C099,Customer_C099,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,Card
+1078,2025-02-05,C001,Customer_C001,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1079,2025-09-17,C085,Customer_C085,T-Shirt,Fashion,1,800,800,400,Maharashtra,Mumbai,Card
+1080,2025-10-11,C105,Customer_C105,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,UPI
+1081,2025-11-12,C050,Customer_C050,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,COD
+1082,2025-06-05,C078,Customer_C078,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,Card
+1083,2025-12-02,C054,Customer_C054,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,Card
+1084,2025-09-19,C120,Customer_C120,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,Card
+1085,2025-12-06,C044,Customer_C044,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,COD
+1086,2025-04-26,C086,Customer_C086,Mobile,Electronics,2,20000,40000,8000,Maharashtra,Mumbai,UPI
+1087,2025-09-01,C038,Customer_C038,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,COD
+1088,2025-04-10,C019,Customer_C019,Keyboard,Electronics,4,2500,10000,3200,Karnataka,Bengaluru,COD
+1089,2025-03-17,C099,Customer_C099,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,COD
+1090,2025-04-01,C002,Customer_C002,Mobile,Electronics,4,20000,80000,16000,Delhi,New Delhi,COD
+1091,2025-05-08,C133,Customer_C133,Keyboard,Electronics,1,2500,2500,800,Karnataka,Bengaluru,UPI
+1092,2025-10-14,C117,Customer_C117,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,COD
+1093,2025-08-07,C082,Customer_C082,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,COD
+1094,2025-05-13,C115,Customer_C115,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,UPI
+1095,2025-08-14,C071,Customer_C071,Keyboard,Electronics,2,2500,5000,1600,Maharashtra,Mumbai,UPI
+1096,2025-06-13,C074,Customer_C074,Smart Watch,Electronics,3,10000,30000,9000,Maharashtra,Mumbai,COD
+1097,2025-07-16,C021,Customer_C021,Headphones,Accessories,2,2000,4000,1600,Delhi,New Delhi,COD
+1098,2025-07-28,C040,Customer_C040,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1099,2025-04-16,C139,Customer_C139,Keyboard,Electronics,4,2500,10000,3200,Bihar,Patna,Card
+1100,2025-09-02,C100,Customer_C100,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,UPI
+1101,2025-10-03,C091,Customer_C091,Shoes,Fashion,4,3000,12000,4800,Uttar Pradesh,Lucknow,COD
+1102,2025-05-20,C140,Customer_C140,Smart Watch,Electronics,4,10000,40000,12000,Delhi,New Delhi,Card
+1103,2025-12-09,C125,Customer_C125,Laptop,Electronics,4,50000,200000,32000,Maharashtra,Mumbai,COD
+1104,2025-11-15,C104,Customer_C104,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,COD
+1105,2025-12-06,C007,Customer_C007,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,UPI
+1106,2025-04-04,C022,Customer_C022,Backpack,Accessories,2,1500,3000,1200,Uttar Pradesh,Lucknow,UPI
+1107,2025-08-21,C067,Customer_C067,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,Card
+1108,2025-05-10,C087,Customer_C087,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,UPI
+1109,2026-05-03,C121,Customer_C121,Laptop,Electronics,5,50000,250000,40000,Bihar,Patna,Card
+1110,2026-05-02,C058,Customer_C058,Mobile,Electronics,1,20000,20000,4000,Bihar,Patna,UPI
+1111,2025-05-03,C052,Customer_C052,Laptop,Electronics,5,50000,250000,40000,Delhi,New Delhi,UPI
+1112,2025-08-27,C122,Customer_C122,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,COD
+1113,2025-11-07,C066,Customer_C066,T-Shirt,Fashion,2,800,1600,800,Karnataka,Bengaluru,COD
+1114,2025-10-24,C030,Customer_C030,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1115,2025-02-08,C080,Customer_C080,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,COD
+1116,2026-02-17,C063,Customer_C063,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,UPI
+1117,2025-08-08,C145,Customer_C145,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,COD
+1118,2025-01-07,C095,Customer_C095,Mobile,Electronics,5,20000,100000,20000,Maharashtra,Mumbai,Card
+1119,2025-11-22,C126,Customer_C126,Mobile,Electronics,4,20000,80000,16000,Maharashtra,Mumbai,Card
+1120,2026-05-10,C040,Customer_C040,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,COD
+1121,2026-02-27,C070,Customer_C070,Keyboard,Electronics,4,2500,10000,3200,Uttar Pradesh,Lucknow,COD
+1122,2025-05-23,C069,Customer_C069,T-Shirt,Fashion,2,800,1600,800,Bihar,Patna,Card
+1123,2025-12-09,C063,Customer_C063,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,Card
+1124,2025-04-04,C087,Customer_C087,Laptop,Electronics,4,50000,200000,32000,Maharashtra,Mumbai,Card
+1125,2025-05-24,C055,Customer_C055,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,COD
+1126,2025-02-13,C071,Customer_C071,Laptop,Electronics,5,50000,250000,40000,Delhi,New Delhi,UPI
+1127,2025-12-20,C105,Customer_C105,Keyboard,Electronics,5,2500,12500,4000,Delhi,New Delhi,Card
+1128,2025-05-31,C126,Customer_C126,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,UPI
+1129,2025-07-08,C104,Customer_C104,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,Card
+1130,2025-06-19,C142,Customer_C142,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,Card
+1131,2025-04-29,C117,Customer_C117,Shoes,Fashion,3,3000,9000,3600,Maharashtra,Mumbai,UPI
+1132,2026-05-02,C050,Customer_C050,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,COD
+1133,2025-05-22,C048,Customer_C048,Smart Watch,Electronics,2,10000,20000,6000,Uttar Pradesh,Lucknow,COD
+1134,2025-06-01,C135,Customer_C135,Shoes,Fashion,1,3000,3000,1200,Delhi,New Delhi,UPI
+1135,2025-12-29,C093,Customer_C093,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,COD
+1136,2025-10-11,C033,Customer_C033,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,Card
+1137,2025-10-21,C033,Customer_C033,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,Card
+1138,2025-04-05,C121,Customer_C121,Keyboard,Electronics,4,2500,10000,3200,Maharashtra,Mumbai,UPI
+1139,2025-07-25,C065,Customer_C065,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,Card
+1140,2026-02-20,C019,Customer_C019,Laptop,Electronics,2,50000,100000,16000,Delhi,New Delhi,COD
+1141,2025-10-13,C078,Customer_C078,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,Card
+1142,2025-06-02,C058,Customer_C058,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,COD
+1143,2025-01-31,C110,Customer_C110,Shoes,Fashion,5,3000,15000,6000,Karnataka,Bengaluru,COD
+1144,2025-12-05,C026,Customer_C026,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,UPI
+1145,2025-02-08,C041,Customer_C041,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,UPI
+1146,2025-08-29,C001,Customer_C001,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,Card
+1147,2025-12-26,C009,Customer_C009,Smart Watch,Electronics,3,10000,30000,9000,Maharashtra,Mumbai,Card
+1148,2025-12-05,C019,Customer_C019,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,UPI
+1149,2025-11-28,C109,Customer_C109,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,UPI
+1150,2025-03-26,C069,Customer_C069,Headphones,Accessories,1,2000,2000,800,Bihar,Patna,Card
+1151,2025-08-28,C146,Customer_C146,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,COD
+1152,2025-10-04,C078,Customer_C078,Backpack,Accessories,3,1500,4500,1800,Karnataka,Bengaluru,Card
+1153,2026-04-01,C113,Customer_C113,Mobile,Electronics,5,20000,100000,20000,Bihar,Patna,Card
+1154,2025-04-28,C083,Customer_C083,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,COD
+1155,2025-01-21,C148,Customer_C148,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,UPI
+1156,2025-10-27,C121,Customer_C121,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,Card
+1157,2025-07-29,C126,Customer_C126,Mobile,Electronics,4,20000,80000,16000,Maharashtra,Mumbai,Card
+1158,2025-07-30,C083,Customer_C083,Mobile,Electronics,2,20000,40000,8000,Maharashtra,Mumbai,COD
+1159,2025-01-19,C127,Customer_C127,Shoes,Fashion,4,3000,12000,4800,Karnataka,Bengaluru,Card
+1160,2025-03-01,C023,Customer_C023,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,Card
+1161,2025-07-31,C132,Customer_C132,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,UPI
+1162,2025-11-17,C049,Customer_C049,T-Shirt,Fashion,5,800,4000,2000,Uttar Pradesh,Lucknow,Card
+1163,2025-03-09,C014,Customer_C014,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,Card
+1164,2026-05-14,C113,Customer_C113,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,COD
+1165,2025-01-08,C062,Customer_C062,Headphones,Accessories,3,2000,6000,2400,Karnataka,Bengaluru,COD
+1166,2025-08-25,C105,Customer_C105,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,UPI
+1167,2025-12-28,C040,Customer_C040,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,Card
+1168,2025-08-22,C107,Customer_C107,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,COD
+1169,2025-09-18,C038,Customer_C038,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,COD
+1170,2025-06-24,C035,Customer_C035,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,COD
+1171,2026-03-05,C069,Customer_C069,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,COD
+1172,2025-10-03,C149,Customer_C149,Keyboard,Electronics,2,2500,5000,1600,Uttar Pradesh,Lucknow,Card
+1173,2025-07-13,C089,Customer_C089,T-Shirt,Fashion,5,800,4000,2000,Karnataka,Bengaluru,Card
+1174,2025-07-16,C083,Customer_C083,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,UPI
+1175,2025-12-28,C106,Customer_C106,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,Card
+1176,2025-03-06,C099,Customer_C099,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,COD
+1177,2025-09-27,C085,Customer_C085,Mobile,Electronics,4,20000,80000,16000,Bihar,Patna,Card
+1178,2025-02-08,C004,Customer_C004,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,Card
+1179,2025-11-29,C068,Customer_C068,T-Shirt,Fashion,5,800,4000,2000,Uttar Pradesh,Lucknow,UPI
+1180,2026-03-23,C085,Customer_C085,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,COD
+1181,2025-04-27,C010,Customer_C010,Mobile,Electronics,2,20000,40000,8000,Maharashtra,Mumbai,COD
+1182,2025-08-16,C024,Customer_C024,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,UPI
+1183,2026-02-12,C077,Customer_C077,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,UPI
+1184,2025-03-16,C076,Customer_C076,T-Shirt,Fashion,3,800,2400,1200,Uttar Pradesh,Lucknow,UPI
+1185,2025-03-29,C136,Customer_C136,Backpack,Accessories,5,1500,7500,3000,Delhi,New Delhi,UPI
+1186,2025-09-12,C021,Customer_C021,Backpack,Accessories,5,1500,7500,3000,Delhi,New Delhi,COD
+1187,2025-08-24,C037,Customer_C037,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,Card
+1188,2025-03-22,C003,Customer_C003,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,UPI
+1189,2025-11-24,C114,Customer_C114,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,Card
+1190,2025-07-16,C065,Customer_C065,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,Card
+1191,2025-07-03,C028,Customer_C028,Smart Watch,Electronics,4,10000,40000,12000,Karnataka,Bengaluru,COD
+1192,2025-05-21,C076,Customer_C076,Shoes,Fashion,1,3000,3000,1200,Uttar Pradesh,Lucknow,UPI
+1193,2026-03-03,C145,Customer_C145,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,Card
+1194,2025-11-14,C059,Customer_C059,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,Card
+1195,2026-02-08,C036,Customer_C036,Mobile,Electronics,1,20000,20000,4000,Maharashtra,Mumbai,Card
+1196,2026-04-11,C009,Customer_C009,T-Shirt,Fashion,2,800,1600,800,Bihar,Patna,Card
+1197,2025-03-09,C084,Customer_C084,Backpack,Accessories,2,1500,3000,1200,Delhi,New Delhi,COD
+1198,2026-04-13,C094,Customer_C094,Shoes,Fashion,2,3000,6000,2400,Maharashtra,Mumbai,Card
+1199,2026-05-09,C076,Customer_C076,T-Shirt,Fashion,1,800,800,400,Uttar Pradesh,Lucknow,UPI
+1200,2025-07-07,C037,Customer_C037,Smart Watch,Electronics,4,10000,40000,12000,Karnataka,Bengaluru,UPI
+1201,2025-03-05,C102,Customer_C102,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,Card
+1202,2026-02-26,C095,Customer_C095,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,COD
+1203,2025-01-13,C096,Customer_C096,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,COD
+1204,2025-11-28,C144,Customer_C144,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,UPI
+1205,2025-03-13,C119,Customer_C119,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,UPI
+1206,2025-02-19,C010,Customer_C010,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,UPI
+1207,2025-07-09,C138,Customer_C138,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,COD
+1208,2026-03-30,C139,Customer_C139,Backpack,Accessories,5,1500,7500,3000,Delhi,New Delhi,Card
+1209,2026-04-26,C026,Customer_C026,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,Card
+1210,2025-08-16,C009,Customer_C009,T-Shirt,Fashion,2,800,1600,800,Uttar Pradesh,Lucknow,UPI
+1211,2026-04-07,C093,Customer_C093,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,COD
+1212,2025-04-08,C092,Customer_C092,Laptop,Electronics,4,50000,200000,32000,Maharashtra,Mumbai,UPI
+1213,2026-05-13,C117,Customer_C117,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,UPI
+1214,2026-02-07,C013,Customer_C013,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,COD
+1215,2025-10-28,C053,Customer_C053,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,UPI
+1216,2025-01-02,C060,Customer_C060,T-Shirt,Fashion,2,800,1600,800,Karnataka,Bengaluru,Card
+1217,2026-02-13,C038,Customer_C038,Headphones,Accessories,5,2000,10000,4000,Maharashtra,Mumbai,UPI
+1218,2025-07-03,C029,Customer_C029,Laptop,Electronics,2,50000,100000,16000,Bihar,Patna,UPI
+1219,2025-01-27,C083,Customer_C083,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,UPI
+1220,2025-08-18,C108,Customer_C108,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,Card
+1221,2025-04-24,C132,Customer_C132,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,COD
+1222,2025-02-01,C012,Customer_C012,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,Card
+1223,2025-12-31,C103,Customer_C103,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,Card
+1224,2025-03-17,C019,Customer_C019,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,UPI
+1225,2025-10-08,C033,Customer_C033,Shoes,Fashion,5,3000,15000,6000,Karnataka,Bengaluru,COD
+1226,2025-05-31,C084,Customer_C084,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,Card
+1227,2026-03-13,C130,Customer_C130,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,COD
+1228,2026-03-31,C142,Customer_C142,Smart Watch,Electronics,4,10000,40000,12000,Uttar Pradesh,Lucknow,UPI
+1229,2025-08-01,C106,Customer_C106,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,COD
+1230,2025-12-07,C025,Customer_C025,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,Card
+1231,2025-02-16,C096,Customer_C096,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,UPI
+1232,2026-02-20,C024,Customer_C024,Backpack,Accessories,1,1500,1500,600,Maharashtra,Mumbai,UPI
+1233,2025-10-15,C143,Customer_C143,Laptop,Electronics,5,50000,250000,40000,Karnataka,Bengaluru,Card
+1234,2026-03-21,C032,Customer_C032,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,COD
+1235,2025-06-30,C014,Customer_C014,Shoes,Fashion,5,3000,15000,6000,Maharashtra,Mumbai,UPI
+1236,2025-04-25,C148,Customer_C148,Smart Watch,Electronics,2,10000,20000,6000,Uttar Pradesh,Lucknow,UPI
+1237,2025-10-21,C090,Customer_C090,T-Shirt,Fashion,1,800,800,400,Maharashtra,Mumbai,UPI
+1238,2025-01-15,C110,Customer_C110,Laptop,Electronics,5,50000,250000,40000,Maharashtra,Mumbai,UPI
+1239,2025-01-04,C070,Customer_C070,Shoes,Fashion,3,3000,9000,3600,Maharashtra,Mumbai,UPI
+1240,2026-01-15,C037,Customer_C037,Backpack,Accessories,1,1500,1500,600,Delhi,New Delhi,COD
+1241,2025-07-12,C008,Customer_C008,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,Card
+1242,2025-06-09,C117,Customer_C117,T-Shirt,Fashion,2,800,1600,800,Maharashtra,Mumbai,COD
+1243,2025-03-22,C084,Customer_C084,Mobile,Electronics,1,20000,20000,4000,Delhi,New Delhi,COD
+1244,2025-12-05,C013,Customer_C013,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,Card
+1245,2025-04-21,C125,Customer_C125,Keyboard,Electronics,4,2500,10000,3200,Maharashtra,Mumbai,COD
+1246,2025-05-26,C030,Customer_C030,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,COD
+1247,2025-07-22,C125,Customer_C125,Shoes,Fashion,1,3000,3000,1200,Delhi,New Delhi,COD
+1248,2026-04-30,C015,Customer_C015,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,UPI
+1249,2025-03-03,C036,Customer_C036,Shoes,Fashion,3,3000,9000,3600,Maharashtra,Mumbai,UPI
+1250,2025-07-14,C128,Customer_C128,Backpack,Accessories,2,1500,3000,1200,Delhi,New Delhi,COD
+1251,2026-03-18,C059,Customer_C059,T-Shirt,Fashion,1,800,800,400,Uttar Pradesh,Lucknow,COD
+1252,2026-04-17,C011,Customer_C011,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,UPI
+1253,2025-12-30,C081,Customer_C081,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,COD
+1254,2025-01-11,C107,Customer_C107,Shoes,Fashion,1,3000,3000,1200,Uttar Pradesh,Lucknow,Card
+1255,2025-08-12,C044,Customer_C044,Keyboard,Electronics,3,2500,7500,2400,Bihar,Patna,UPI
+1256,2025-09-26,C063,Customer_C063,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1257,2025-06-20,C102,Customer_C102,Shoes,Fashion,3,3000,9000,3600,Delhi,New Delhi,UPI
+1258,2025-04-10,C020,Customer_C020,Mobile,Electronics,5,20000,100000,20000,Karnataka,Bengaluru,Card
+1259,2025-03-16,C090,Customer_C090,Headphones,Accessories,2,2000,4000,1600,Bihar,Patna,Card
+1260,2026-01-25,C051,Customer_C051,Headphones,Accessories,5,2000,10000,4000,Delhi,New Delhi,COD
+1261,2026-01-22,C020,Customer_C020,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,COD
+1262,2025-06-15,C149,Customer_C149,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,COD
+1263,2025-08-29,C081,Customer_C081,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,Card
+1264,2025-06-30,C078,Customer_C078,Shoes,Fashion,5,3000,15000,6000,Bihar,Patna,COD
+1265,2025-01-20,C019,Customer_C019,Shoes,Fashion,4,3000,12000,4800,Uttar Pradesh,Lucknow,UPI
+1266,2025-11-11,C095,Customer_C095,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,COD
+1267,2025-10-11,C130,Customer_C130,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,COD
+1268,2025-06-14,C011,Customer_C011,Keyboard,Electronics,5,2500,12500,4000,Delhi,New Delhi,COD
+1269,2025-02-22,C122,Customer_C122,Headphones,Accessories,1,2000,2000,800,Uttar Pradesh,Lucknow,Card
+1270,2025-12-29,C022,Customer_C022,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,Card
+1271,2026-04-15,C113,Customer_C113,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,Card
+1272,2025-01-27,C100,Customer_C100,Backpack,Accessories,3,1500,4500,1800,Karnataka,Bengaluru,COD
+1273,2025-10-13,C086,Customer_C086,Mobile,Electronics,3,20000,60000,12000,Bihar,Patna,COD
+1274,2026-03-24,C099,Customer_C099,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,UPI
+1275,2026-04-15,C086,Customer_C086,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,Card
+1276,2025-12-29,C080,Customer_C080,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,UPI
+1277,2025-12-10,C080,Customer_C080,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,COD
+1278,2025-07-05,C135,Customer_C135,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,UPI
+1279,2025-06-24,C093,Customer_C093,Shoes,Fashion,2,3000,6000,2400,Delhi,New Delhi,Card
+1280,2025-02-09,C050,Customer_C050,Smart Watch,Electronics,2,10000,20000,6000,Delhi,New Delhi,Card
+1281,2025-03-09,C026,Customer_C026,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,COD
+1282,2026-03-02,C097,Customer_C097,Headphones,Accessories,2,2000,4000,1600,Delhi,New Delhi,COD
+1283,2025-07-06,C043,Customer_C043,Keyboard,Electronics,1,2500,2500,800,Uttar Pradesh,Lucknow,COD
+1284,2026-01-21,C061,Customer_C061,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,COD
+1285,2025-06-08,C115,Customer_C115,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,Card
+1286,2025-08-25,C050,Customer_C050,T-Shirt,Fashion,5,800,4000,2000,Uttar Pradesh,Lucknow,Card
+1287,2026-02-15,C098,Customer_C098,Backpack,Accessories,2,1500,3000,1200,Delhi,New Delhi,COD
+1288,2026-03-24,C036,Customer_C036,Shoes,Fashion,1,3000,3000,1200,Uttar Pradesh,Lucknow,Card
+1289,2025-05-26,C142,Customer_C142,Mobile,Electronics,5,20000,100000,20000,Bihar,Patna,UPI
+1290,2025-03-17,C042,Customer_C042,Shoes,Fashion,4,3000,12000,4800,Karnataka,Bengaluru,Card
+1291,2026-04-22,C024,Customer_C024,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,UPI
+1292,2025-07-11,C107,Customer_C107,Laptop,Electronics,4,50000,200000,32000,Karnataka,Bengaluru,UPI
+1293,2025-01-15,C099,Customer_C099,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,Card
+1294,2025-01-20,C026,Customer_C026,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,Card
+1295,2025-11-12,C121,Customer_C121,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,UPI
+1296,2026-03-04,C021,Customer_C021,Laptop,Electronics,3,50000,150000,24000,Delhi,New Delhi,UPI
+1297,2025-05-02,C141,Customer_C141,Backpack,Accessories,1,1500,1500,600,Maharashtra,Mumbai,Card
+1298,2025-11-24,C032,Customer_C032,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,COD
+1299,2025-11-02,C118,Customer_C118,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,COD
+1300,2025-08-08,C005,Customer_C005,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,UPI
+1301,2025-04-06,C091,Customer_C091,Smart Watch,Electronics,5,10000,50000,15000,Uttar Pradesh,Lucknow,COD
+1302,2025-10-06,C022,Customer_C022,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,COD
+1303,2025-01-23,C130,Customer_C130,Laptop,Electronics,4,50000,200000,32000,Uttar Pradesh,Lucknow,COD
+1304,2025-07-02,C100,Customer_C100,T-Shirt,Fashion,3,800,2400,1200,Bihar,Patna,UPI
+1305,2026-01-12,C089,Customer_C089,Smart Watch,Electronics,1,10000,10000,3000,Karnataka,Bengaluru,Card
+1306,2025-06-23,C035,Customer_C035,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,COD
+1307,2026-02-20,C045,Customer_C045,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,UPI
+1308,2025-04-14,C017,Customer_C017,Keyboard,Electronics,1,2500,2500,800,Maharashtra,Mumbai,UPI
+1309,2025-09-21,C052,Customer_C052,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,Card
+1310,2026-01-21,C140,Customer_C140,Keyboard,Electronics,3,2500,7500,2400,Bihar,Patna,COD
+1311,2026-03-20,C049,Customer_C049,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,COD
+1312,2025-08-12,C085,Customer_C085,Shoes,Fashion,1,3000,3000,1200,Maharashtra,Mumbai,Card
+1313,2025-09-12,C113,Customer_C113,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,COD
+1314,2026-02-15,C128,Customer_C128,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,UPI
+1315,2026-02-26,C109,Customer_C109,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,UPI
+1316,2025-02-10,C140,Customer_C140,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,Card
+1317,2026-01-03,C076,Customer_C076,Shoes,Fashion,4,3000,12000,4800,Karnataka,Bengaluru,Card
+1318,2025-01-22,C043,Customer_C043,Keyboard,Electronics,3,2500,7500,2400,Uttar Pradesh,Lucknow,COD
+1319,2025-02-08,C091,Customer_C091,Backpack,Accessories,3,1500,4500,1800,Bihar,Patna,COD
+1320,2026-05-03,C104,Customer_C104,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,UPI
+1321,2025-02-04,C037,Customer_C037,Keyboard,Electronics,1,2500,2500,800,Delhi,New Delhi,UPI
+1322,2025-01-17,C094,Customer_C094,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,COD
+1323,2025-08-16,C040,Customer_C040,Keyboard,Electronics,3,2500,7500,2400,Maharashtra,Mumbai,UPI
+1324,2025-07-23,C147,Customer_C147,Headphones,Accessories,5,2000,10000,4000,Maharashtra,Mumbai,Card
+1325,2026-01-12,C072,Customer_C072,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,UPI
+1326,2025-05-15,C128,Customer_C128,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,Card
+1327,2025-12-22,C115,Customer_C115,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,Card
+1328,2025-08-20,C052,Customer_C052,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,UPI
+1329,2025-12-30,C114,Customer_C114,Mobile,Electronics,3,20000,60000,12000,Maharashtra,Mumbai,UPI
+1330,2025-12-31,C141,Customer_C141,Shoes,Fashion,3,3000,9000,3600,Delhi,New Delhi,COD
+1331,2025-03-04,C045,Customer_C045,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,UPI
+1332,2025-07-04,C036,Customer_C036,Smart Watch,Electronics,4,10000,40000,12000,Bihar,Patna,COD
+1333,2025-03-08,C147,Customer_C147,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,COD
+1334,2026-01-03,C023,Customer_C023,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,COD
+1335,2025-02-07,C123,Customer_C123,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,UPI
+1336,2025-12-15,C082,Customer_C082,Mobile,Electronics,4,20000,80000,16000,Uttar Pradesh,Lucknow,COD
+1337,2025-04-04,C089,Customer_C089,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,UPI
+1338,2025-03-20,C111,Customer_C111,Laptop,Electronics,1,50000,50000,8000,Karnataka,Bengaluru,Card
+1339,2025-06-27,C043,Customer_C043,Headphones,Accessories,3,2000,6000,2400,Delhi,New Delhi,COD
+1340,2025-11-22,C073,Customer_C073,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,COD
+1341,2025-10-01,C071,Customer_C071,Headphones,Accessories,3,2000,6000,2400,Karnataka,Bengaluru,UPI
+1342,2025-03-20,C129,Customer_C129,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,UPI
+1343,2025-01-24,C087,Customer_C087,Laptop,Electronics,1,50000,50000,8000,Bihar,Patna,COD
+1344,2025-08-02,C148,Customer_C148,Shoes,Fashion,2,3000,6000,2400,Karnataka,Bengaluru,COD
+1345,2025-11-25,C008,Customer_C008,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,Card
+1346,2025-08-21,C124,Customer_C124,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,UPI
+1347,2025-09-05,C016,Customer_C016,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,Card
+1348,2025-06-10,C053,Customer_C053,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,COD
+1349,2026-01-25,C082,Customer_C082,T-Shirt,Fashion,4,800,3200,1600,Delhi,New Delhi,Card
+1350,2025-08-27,C132,Customer_C132,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,UPI
+1351,2025-02-19,C069,Customer_C069,Keyboard,Electronics,2,2500,5000,1600,Delhi,New Delhi,UPI
+1352,2025-05-08,C075,Customer_C075,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1353,2025-09-13,C084,Customer_C084,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,COD
+1354,2025-01-12,C120,Customer_C120,Keyboard,Electronics,3,2500,7500,2400,Uttar Pradesh,Lucknow,UPI
+1355,2025-10-26,C101,Customer_C101,Keyboard,Electronics,2,2500,5000,1600,Delhi,New Delhi,Card
+1356,2025-11-02,C013,Customer_C013,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,COD
+1357,2026-03-10,C121,Customer_C121,Shoes,Fashion,5,3000,15000,6000,Bihar,Patna,UPI
+1358,2026-01-27,C111,Customer_C111,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,Card
+1359,2025-10-19,C094,Customer_C094,Laptop,Electronics,4,50000,200000,32000,Bihar,Patna,COD
+1360,2025-02-07,C050,Customer_C050,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,Card
+1361,2026-02-27,C130,Customer_C130,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,COD
+1362,2025-07-11,C031,Customer_C031,Headphones,Accessories,1,2000,2000,800,Uttar Pradesh,Lucknow,Card
+1363,2025-11-05,C143,Customer_C143,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,COD
+1364,2025-03-12,C103,Customer_C103,Laptop,Electronics,1,50000,50000,8000,Bihar,Patna,COD
+1365,2025-03-18,C086,Customer_C086,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,COD
+1366,2025-06-13,C132,Customer_C132,Headphones,Accessories,3,2000,6000,2400,Karnataka,Bengaluru,UPI
+1367,2025-09-17,C101,Customer_C101,Shoes,Fashion,5,3000,15000,6000,Maharashtra,Mumbai,COD
+1368,2025-09-01,C137,Customer_C137,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,UPI
+1369,2025-10-26,C095,Customer_C095,T-Shirt,Fashion,1,800,800,400,Uttar Pradesh,Lucknow,Card
+1370,2025-10-23,C007,Customer_C007,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,UPI
+1371,2025-11-19,C014,Customer_C014,Keyboard,Electronics,2,2500,5000,1600,Karnataka,Bengaluru,COD
+1372,2025-10-21,C098,Customer_C098,Headphones,Accessories,2,2000,4000,1600,Bihar,Patna,COD
+1373,2025-06-10,C029,Customer_C029,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1374,2025-09-14,C039,Customer_C039,Backpack,Accessories,2,1500,3000,1200,Uttar Pradesh,Lucknow,COD
+1375,2025-04-17,C121,Customer_C121,Laptop,Electronics,2,50000,100000,16000,Karnataka,Bengaluru,COD
+1376,2025-06-10,C084,Customer_C084,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,UPI
+1377,2025-12-13,C118,Customer_C118,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,COD
+1378,2025-05-23,C068,Customer_C068,Keyboard,Electronics,2,2500,5000,1600,Delhi,New Delhi,COD
+1379,2025-12-27,C077,Customer_C077,Smart Watch,Electronics,3,10000,30000,9000,Maharashtra,Mumbai,UPI
+1380,2025-10-14,C126,Customer_C126,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,COD
+1381,2025-12-13,C071,Customer_C071,Shoes,Fashion,1,3000,3000,1200,Karnataka,Bengaluru,COD
+1382,2025-05-29,C098,Customer_C098,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,UPI
+1383,2025-12-02,C074,Customer_C074,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,Card
+1384,2025-05-19,C123,Customer_C123,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,COD
+1385,2026-01-15,C070,Customer_C070,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,COD
+1386,2025-04-26,C062,Customer_C062,Smart Watch,Electronics,1,10000,10000,3000,Karnataka,Bengaluru,COD
+1387,2025-06-19,C060,Customer_C060,Laptop,Electronics,1,50000,50000,8000,Uttar Pradesh,Lucknow,COD
+1388,2026-05-09,C121,Customer_C121,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,COD
+1389,2025-11-30,C041,Customer_C041,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,UPI
+1390,2026-04-10,C074,Customer_C074,T-Shirt,Fashion,3,800,2400,1200,Bihar,Patna,UPI
+1391,2026-04-13,C147,Customer_C147,Smart Watch,Electronics,5,10000,50000,15000,Bihar,Patna,UPI
+1392,2026-02-08,C107,Customer_C107,Headphones,Accessories,1,2000,2000,800,Uttar Pradesh,Lucknow,Card
+1393,2025-06-02,C048,Customer_C048,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,COD
+1394,2025-11-25,C028,Customer_C028,T-Shirt,Fashion,3,800,2400,1200,Uttar Pradesh,Lucknow,COD
+1395,2025-08-28,C135,Customer_C135,Keyboard,Electronics,2,2500,5000,1600,Karnataka,Bengaluru,Card
+1396,2026-01-10,C050,Customer_C050,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,Card
+1397,2026-02-09,C066,Customer_C066,Headphones,Accessories,1,2000,2000,800,Maharashtra,Mumbai,Card
+1398,2026-03-15,C146,Customer_C146,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,COD
+1399,2025-02-14,C104,Customer_C104,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,Card
+1400,2025-06-15,C025,Customer_C025,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,UPI
+1401,2025-08-17,C002,Customer_C002,Shoes,Fashion,4,3000,12000,4800,Delhi,New Delhi,Card
+1402,2025-01-06,C085,Customer_C085,Shoes,Fashion,5,3000,15000,6000,Karnataka,Bengaluru,Card
+1403,2025-08-27,C093,Customer_C093,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,Card
+1404,2025-12-20,C041,Customer_C041,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,UPI
+1405,2025-04-23,C076,Customer_C076,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,UPI
+1406,2025-07-11,C123,Customer_C123,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,Card
+1407,2026-01-26,C141,Customer_C141,Keyboard,Electronics,5,2500,12500,4000,Delhi,New Delhi,UPI
+1408,2025-02-09,C021,Customer_C021,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,COD
+1409,2025-04-14,C029,Customer_C029,Laptop,Electronics,5,50000,250000,40000,Karnataka,Bengaluru,COD
+1410,2026-03-14,C138,Customer_C138,Headphones,Accessories,2,2000,4000,1600,Maharashtra,Mumbai,COD
+1411,2025-09-08,C114,Customer_C114,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,UPI
+1412,2025-03-09,C131,Customer_C131,Keyboard,Electronics,1,2500,2500,800,Uttar Pradesh,Lucknow,COD
+1413,2025-10-14,C107,Customer_C107,Keyboard,Electronics,5,2500,12500,4000,Bihar,Patna,Card
+1414,2026-02-23,C079,Customer_C079,Laptop,Electronics,4,50000,200000,32000,Maharashtra,Mumbai,UPI
+1415,2025-06-26,C056,Customer_C056,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,COD
+1416,2025-01-17,C017,Customer_C017,Laptop,Electronics,1,50000,50000,8000,Uttar Pradesh,Lucknow,Card
+1417,2025-07-11,C105,Customer_C105,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,Card
+1418,2025-12-16,C115,Customer_C115,Backpack,Accessories,4,1500,6000,2400,Bihar,Patna,COD
+1419,2025-04-02,C139,Customer_C139,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,COD
+1420,2026-01-23,C101,Customer_C101,Headphones,Accessories,2,2000,4000,1600,Bihar,Patna,UPI
+1421,2025-09-30,C077,Customer_C077,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,Card
+1422,2025-03-21,C059,Customer_C059,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,Card
+1423,2025-11-11,C049,Customer_C049,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,UPI
+1424,2025-11-01,C062,Customer_C062,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,UPI
+1425,2025-07-25,C115,Customer_C115,Laptop,Electronics,2,50000,100000,16000,Bihar,Patna,Card
+1426,2025-09-15,C060,Customer_C060,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,Card
+1427,2026-01-31,C060,Customer_C060,T-Shirt,Fashion,5,800,4000,2000,Karnataka,Bengaluru,COD
+1428,2025-12-05,C083,Customer_C083,Smart Watch,Electronics,3,10000,30000,9000,Delhi,New Delhi,COD
+1429,2025-02-01,C057,Customer_C057,Backpack,Accessories,3,1500,4500,1800,Maharashtra,Mumbai,COD
+1430,2025-01-25,C045,Customer_C045,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,Card
+1431,2025-03-18,C098,Customer_C098,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,Card
+1432,2025-05-04,C097,Customer_C097,Headphones,Accessories,5,2000,10000,4000,Uttar Pradesh,Lucknow,UPI
+1433,2025-10-15,C077,Customer_C077,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,Card
+1434,2025-05-11,C107,Customer_C107,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,UPI
+1435,2025-02-17,C085,Customer_C085,Mobile,Electronics,4,20000,80000,16000,Maharashtra,Mumbai,COD
+1436,2025-12-11,C049,Customer_C049,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,COD
+1437,2026-01-06,C011,Customer_C011,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,COD
+1438,2026-03-22,C144,Customer_C144,Smart Watch,Electronics,4,10000,40000,12000,Delhi,New Delhi,Card
+1439,2026-05-08,C078,Customer_C078,Laptop,Electronics,2,50000,100000,16000,Delhi,New Delhi,COD
+1440,2025-12-27,C031,Customer_C031,Keyboard,Electronics,2,2500,5000,1600,Karnataka,Bengaluru,UPI
+1441,2026-02-02,C102,Customer_C102,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,Card
+1442,2025-06-07,C098,Customer_C098,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,Card
+1443,2026-02-16,C093,Customer_C093,Keyboard,Electronics,4,2500,10000,3200,Bihar,Patna,COD
+1444,2025-06-10,C121,Customer_C121,T-Shirt,Fashion,2,800,1600,800,Maharashtra,Mumbai,Card
+1445,2025-05-14,C012,Customer_C012,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,COD
+1446,2025-04-11,C150,Customer_C150,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,Card
+1447,2025-09-13,C059,Customer_C059,Backpack,Accessories,5,1500,7500,3000,Delhi,New Delhi,COD
+1448,2025-08-24,C087,Customer_C087,Shoes,Fashion,4,3000,12000,4800,Uttar Pradesh,Lucknow,UPI
+1449,2025-09-08,C091,Customer_C091,Headphones,Accessories,2,2000,4000,1600,Karnataka,Bengaluru,UPI
+1450,2026-03-06,C139,Customer_C139,Laptop,Electronics,5,50000,250000,40000,Bihar,Patna,UPI
+1451,2026-03-08,C013,Customer_C013,Laptop,Electronics,4,50000,200000,32000,Delhi,New Delhi,COD
+1452,2025-04-22,C060,Customer_C060,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,COD
+1453,2025-11-23,C117,Customer_C117,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,COD
+1454,2025-09-30,C124,Customer_C124,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,COD
+1455,2026-01-05,C106,Customer_C106,Laptop,Electronics,1,50000,50000,8000,Karnataka,Bengaluru,Card
+1456,2026-02-21,C138,Customer_C138,Shoes,Fashion,1,3000,3000,1200,Karnataka,Bengaluru,COD
+1457,2025-09-26,C111,Customer_C111,Headphones,Accessories,1,2000,2000,800,Bihar,Patna,UPI
+1458,2025-05-10,C062,Customer_C062,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,Card
+1459,2026-05-07,C069,Customer_C069,Backpack,Accessories,1,1500,1500,600,Maharashtra,Mumbai,Card
+1460,2025-12-17,C118,Customer_C118,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,UPI
+1461,2025-07-13,C009,Customer_C009,Mobile,Electronics,4,20000,80000,16000,Uttar Pradesh,Lucknow,COD
+1462,2025-02-12,C122,Customer_C122,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,Card
+1463,2026-04-04,C112,Customer_C112,T-Shirt,Fashion,5,800,4000,2000,Bihar,Patna,COD
+1464,2025-09-01,C011,Customer_C011,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,Card
+1465,2025-10-16,C012,Customer_C012,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,COD
+1466,2026-05-08,C009,Customer_C009,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1467,2025-03-25,C037,Customer_C037,Backpack,Accessories,1,1500,1500,600,Maharashtra,Mumbai,COD
+1468,2025-07-16,C062,Customer_C062,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,COD
+1469,2025-01-28,C036,Customer_C036,Mobile,Electronics,5,20000,100000,20000,Maharashtra,Mumbai,UPI
+1470,2025-11-06,C112,Customer_C112,Smart Watch,Electronics,1,10000,10000,3000,Maharashtra,Mumbai,COD
+1471,2026-02-06,C102,Customer_C102,T-Shirt,Fashion,1,800,800,400,Maharashtra,Mumbai,Card
+1472,2026-04-27,C126,Customer_C126,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,Card
+1473,2025-02-13,C111,Customer_C111,Headphones,Accessories,5,2000,10000,4000,Uttar Pradesh,Lucknow,COD
+1474,2025-05-18,C076,Customer_C076,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,UPI
+1475,2025-07-04,C098,Customer_C098,Headphones,Accessories,4,2000,8000,3200,Maharashtra,Mumbai,UPI
+1476,2025-07-04,C024,Customer_C024,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,Card
+1477,2025-08-09,C027,Customer_C027,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,Card
+1478,2025-02-15,C143,Customer_C143,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,Card
+1479,2026-02-06,C142,Customer_C142,Mobile,Electronics,5,20000,100000,20000,Karnataka,Bengaluru,Card
+1480,2025-07-18,C099,Customer_C099,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,UPI
+1481,2025-03-28,C144,Customer_C144,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,COD
+1482,2025-06-04,C098,Customer_C098,Headphones,Accessories,2,2000,4000,1600,Maharashtra,Mumbai,Card
+1483,2025-08-11,C127,Customer_C127,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,Card
+1484,2025-07-04,C108,Customer_C108,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,Card
+1485,2025-04-11,C064,Customer_C064,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,Card
+1486,2026-05-01,C028,Customer_C028,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,Card
+1487,2025-06-21,C086,Customer_C086,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,Card
+1488,2026-05-01,C035,Customer_C035,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,COD
+1489,2026-05-09,C052,Customer_C052,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,Card
+1490,2026-02-05,C082,Customer_C082,Shoes,Fashion,4,3000,12000,4800,Karnataka,Bengaluru,UPI
+1491,2025-07-06,C084,Customer_C084,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,UPI
+1492,2025-04-03,C145,Customer_C145,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,COD
+1493,2025-08-13,C141,Customer_C141,Laptop,Electronics,4,50000,200000,32000,Delhi,New Delhi,Card
+1494,2025-11-21,C018,Customer_C018,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,Card
+1495,2026-02-09,C062,Customer_C062,Shoes,Fashion,2,3000,6000,2400,Uttar Pradesh,Lucknow,Card
+1496,2025-10-26,C019,Customer_C019,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,Card
+1497,2026-02-09,C137,Customer_C137,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,Card
+1498,2025-12-03,C138,Customer_C138,Mobile,Electronics,1,20000,20000,4000,Delhi,New Delhi,COD
+1499,2025-10-16,C091,Customer_C091,Headphones,Accessories,5,2000,10000,4000,Bihar,Patna,COD
+1500,2025-01-06,C103,Customer_C103,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,UPI
+1501,2025-10-13,C067,Customer_C067,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,COD
+1502,2025-07-20,C148,Customer_C148,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,Card
+1503,2025-09-05,C129,Customer_C129,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1504,2026-03-02,C076,Customer_C076,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,COD
+1505,2025-08-22,C037,Customer_C037,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,UPI
+1506,2025-02-19,C134,Customer_C134,Keyboard,Electronics,3,2500,7500,2400,Uttar Pradesh,Lucknow,Card
+1507,2025-01-23,C116,Customer_C116,T-Shirt,Fashion,1,800,800,400,Maharashtra,Mumbai,COD
+1508,2025-12-13,C030,Customer_C030,Laptop,Electronics,3,50000,150000,24000,Bihar,Patna,UPI
+1509,2025-06-19,C063,Customer_C063,Headphones,Accessories,5,2000,10000,4000,Delhi,New Delhi,COD
+1510,2025-11-19,C110,Customer_C110,Keyboard,Electronics,2,2500,5000,1600,Uttar Pradesh,Lucknow,UPI
+1511,2026-01-13,C048,Customer_C048,Backpack,Accessories,4,1500,6000,2400,Bihar,Patna,COD
+1512,2025-07-19,C051,Customer_C051,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,UPI
+1513,2025-10-23,C055,Customer_C055,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,UPI
+1514,2025-04-11,C138,Customer_C138,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,Card
+1515,2026-05-10,C030,Customer_C030,Shoes,Fashion,4,3000,12000,4800,Karnataka,Bengaluru,COD
+1516,2025-10-28,C081,Customer_C081,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1517,2025-03-30,C090,Customer_C090,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,COD
+1518,2025-03-02,C077,Customer_C077,Mobile,Electronics,2,20000,40000,8000,Maharashtra,Mumbai,UPI
+1519,2025-12-22,C079,Customer_C079,Mobile,Electronics,2,20000,40000,8000,Maharashtra,Mumbai,UPI
+1520,2025-03-12,C131,Customer_C131,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,COD
+1521,2025-11-22,C099,Customer_C099,Backpack,Accessories,2,1500,3000,1200,Uttar Pradesh,Lucknow,COD
+1522,2025-03-13,C045,Customer_C045,Headphones,Accessories,4,2000,8000,3200,Maharashtra,Mumbai,UPI
+1523,2026-03-20,C081,Customer_C081,Keyboard,Electronics,5,2500,12500,4000,Bihar,Patna,Card
+1524,2026-02-22,C003,Customer_C003,Keyboard,Electronics,2,2500,5000,1600,Delhi,New Delhi,Card
+1525,2025-08-01,C144,Customer_C144,Keyboard,Electronics,4,2500,10000,3200,Uttar Pradesh,Lucknow,COD
+1526,2025-10-17,C114,Customer_C114,Keyboard,Electronics,2,2500,5000,1600,Bihar,Patna,UPI
+1527,2025-04-26,C057,Customer_C057,Shoes,Fashion,1,3000,3000,1200,Maharashtra,Mumbai,COD
+1528,2026-01-16,C074,Customer_C074,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,Card
+1529,2025-05-18,C141,Customer_C141,Mobile,Electronics,5,20000,100000,20000,Bihar,Patna,COD
+1530,2025-04-22,C094,Customer_C094,Laptop,Electronics,4,50000,200000,32000,Karnataka,Bengaluru,Card
+1531,2025-08-19,C027,Customer_C027,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,Card
+1532,2026-02-02,C090,Customer_C090,Mobile,Electronics,4,20000,80000,16000,Bihar,Patna,UPI
+1533,2025-03-26,C054,Customer_C054,T-Shirt,Fashion,5,800,4000,2000,Uttar Pradesh,Lucknow,COD
+1534,2025-10-19,C036,Customer_C036,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,Card
+1535,2025-03-28,C137,Customer_C137,Shoes,Fashion,5,3000,15000,6000,Karnataka,Bengaluru,Card
+1536,2026-05-03,C075,Customer_C075,Shoes,Fashion,5,3000,15000,6000,Maharashtra,Mumbai,COD
+1537,2025-05-22,C025,Customer_C025,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,COD
+1538,2025-12-31,C033,Customer_C033,Headphones,Accessories,2,2000,4000,1600,Delhi,New Delhi,Card
+1539,2025-10-23,C064,Customer_C064,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,COD
+1540,2025-02-08,C069,Customer_C069,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,COD
+1541,2025-12-22,C024,Customer_C024,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,Card
+1542,2025-01-02,C117,Customer_C117,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,COD
+1543,2026-02-12,C024,Customer_C024,Keyboard,Electronics,3,2500,7500,2400,Bihar,Patna,COD
+1544,2025-09-11,C102,Customer_C102,Smart Watch,Electronics,4,10000,40000,12000,Delhi,New Delhi,Card
+1545,2025-10-23,C083,Customer_C083,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,UPI
+1546,2025-01-24,C145,Customer_C145,Keyboard,Electronics,3,2500,7500,2400,Bihar,Patna,UPI
+1547,2025-08-14,C118,Customer_C118,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,Card
+1548,2026-03-28,C001,Customer_C001,Backpack,Accessories,2,1500,3000,1200,Delhi,New Delhi,COD
+1549,2025-12-02,C078,Customer_C078,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,Card
+1550,2025-01-27,C065,Customer_C065,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,Card
+1551,2025-12-27,C079,Customer_C079,Smart Watch,Electronics,4,10000,40000,12000,Bihar,Patna,UPI
+1552,2025-03-09,C001,Customer_C001,Smart Watch,Electronics,4,10000,40000,12000,Bihar,Patna,COD
+1553,2025-12-23,C058,Customer_C058,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,Card
+1554,2025-02-06,C031,Customer_C031,Backpack,Accessories,2,1500,3000,1200,Uttar Pradesh,Lucknow,UPI
+1555,2025-06-10,C099,Customer_C099,Mobile,Electronics,1,20000,20000,4000,Bihar,Patna,Card
+1556,2025-11-25,C077,Customer_C077,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,COD
+1557,2025-01-05,C037,Customer_C037,Mobile,Electronics,5,20000,100000,20000,Karnataka,Bengaluru,COD
+1558,2025-11-18,C043,Customer_C043,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,COD
+1559,2026-03-17,C039,Customer_C039,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1560,2025-10-29,C023,Customer_C023,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,COD
+1561,2026-02-10,C099,Customer_C099,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,UPI
+1562,2025-10-11,C064,Customer_C064,Shoes,Fashion,1,3000,3000,1200,Delhi,New Delhi,COD
+1563,2025-09-23,C073,Customer_C073,Laptop,Electronics,3,50000,150000,24000,Delhi,New Delhi,COD
+1564,2025-11-27,C131,Customer_C131,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,UPI
+1565,2025-05-04,C062,Customer_C062,Keyboard,Electronics,4,2500,10000,3200,Bihar,Patna,Card
+1566,2025-03-09,C019,Customer_C019,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,Card
+1567,2025-12-16,C146,Customer_C146,Backpack,Accessories,3,1500,4500,1800,Karnataka,Bengaluru,UPI
+1568,2025-02-04,C121,Customer_C121,Mobile,Electronics,1,20000,20000,4000,Karnataka,Bengaluru,UPI
+1569,2026-05-01,C068,Customer_C068,Smart Watch,Electronics,1,10000,10000,3000,Bihar,Patna,Card
+1570,2025-08-05,C130,Customer_C130,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,COD
+1571,2025-11-12,C103,Customer_C103,Mobile,Electronics,5,20000,100000,20000,Karnataka,Bengaluru,UPI
+1572,2025-09-19,C072,Customer_C072,Mobile,Electronics,3,20000,60000,12000,Bihar,Patna,UPI
+1573,2025-11-21,C040,Customer_C040,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,COD
+1574,2025-01-30,C017,Customer_C017,Shoes,Fashion,4,3000,12000,4800,Delhi,New Delhi,UPI
+1575,2025-11-10,C023,Customer_C023,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,COD
+1576,2025-01-07,C015,Customer_C015,Shoes,Fashion,2,3000,6000,2400,Bihar,Patna,COD
+1577,2026-05-03,C036,Customer_C036,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,Card
+1578,2025-03-06,C134,Customer_C134,Shoes,Fashion,2,3000,6000,2400,Maharashtra,Mumbai,COD
+1579,2026-02-18,C069,Customer_C069,Mobile,Electronics,1,20000,20000,4000,Maharashtra,Mumbai,Card
+1580,2025-11-18,C070,Customer_C070,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,UPI
+1581,2025-01-29,C128,Customer_C128,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,Card
+1582,2025-05-11,C146,Customer_C146,Headphones,Accessories,3,2000,6000,2400,Delhi,New Delhi,UPI
+1583,2025-01-02,C147,Customer_C147,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,UPI
+1584,2025-07-06,C004,Customer_C004,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1585,2026-02-16,C039,Customer_C039,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,COD
+1586,2025-08-02,C108,Customer_C108,Smart Watch,Electronics,3,10000,30000,9000,Delhi,New Delhi,COD
+1587,2025-07-10,C082,Customer_C082,Shoes,Fashion,1,3000,3000,1200,Karnataka,Bengaluru,UPI
+1588,2026-02-16,C129,Customer_C129,Laptop,Electronics,2,50000,100000,16000,Delhi,New Delhi,COD
+1589,2026-03-20,C012,Customer_C012,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,Card
+1590,2025-08-22,C080,Customer_C080,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,UPI
+1591,2026-02-06,C095,Customer_C095,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,Card
+1592,2026-05-13,C063,Customer_C063,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,Card
+1593,2026-04-23,C051,Customer_C051,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,Card
+1594,2025-11-22,C007,Customer_C007,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,COD
+1595,2026-03-11,C003,Customer_C003,T-Shirt,Fashion,1,800,800,400,Uttar Pradesh,Lucknow,COD
+1596,2025-05-02,C079,Customer_C079,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,Card
+1597,2025-02-17,C126,Customer_C126,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,UPI
+1598,2026-05-14,C060,Customer_C060,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,COD
+1599,2025-11-23,C022,Customer_C022,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,Card
+1600,2025-05-02,C020,Customer_C020,Laptop,Electronics,4,50000,200000,32000,Delhi,New Delhi,Card
+1601,2025-06-12,C067,Customer_C067,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,Card
+1602,2025-03-11,C070,Customer_C070,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,COD
+1603,2025-08-19,C028,Customer_C028,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,Card
+1604,2025-07-03,C081,Customer_C081,Backpack,Accessories,1,1500,1500,600,Karnataka,Bengaluru,UPI
+1605,2026-03-13,C116,Customer_C116,Shoes,Fashion,4,3000,12000,4800,Maharashtra,Mumbai,UPI
+1606,2025-01-21,C024,Customer_C024,Headphones,Accessories,3,2000,6000,2400,Karnataka,Bengaluru,UPI
+1607,2026-05-11,C084,Customer_C084,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,Card
+1608,2026-02-24,C102,Customer_C102,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,UPI
+1609,2026-01-19,C008,Customer_C008,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,COD
+1610,2026-02-16,C064,Customer_C064,Mobile,Electronics,4,20000,80000,16000,Bihar,Patna,UPI
+1611,2025-03-08,C032,Customer_C032,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,UPI
+1612,2025-10-28,C103,Customer_C103,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,Card
+1613,2026-04-08,C020,Customer_C020,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,COD
+1614,2025-03-04,C114,Customer_C114,Headphones,Accessories,1,2000,2000,800,Maharashtra,Mumbai,UPI
+1615,2025-08-10,C119,Customer_C119,Laptop,Electronics,2,50000,100000,16000,Karnataka,Bengaluru,COD
+1616,2025-12-16,C102,Customer_C102,Keyboard,Electronics,1,2500,2500,800,Uttar Pradesh,Lucknow,Card
+1617,2025-05-21,C045,Customer_C045,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,Card
+1618,2025-11-14,C115,Customer_C115,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,COD
+1619,2026-03-28,C063,Customer_C063,Shoes,Fashion,4,3000,12000,4800,Uttar Pradesh,Lucknow,COD
+1620,2025-07-16,C123,Customer_C123,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,UPI
+1621,2025-11-19,C108,Customer_C108,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,COD
+1622,2025-10-06,C005,Customer_C005,Backpack,Accessories,3,1500,4500,1800,Uttar Pradesh,Lucknow,Card
+1623,2025-04-03,C089,Customer_C089,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,UPI
+1624,2025-01-30,C082,Customer_C082,Smart Watch,Electronics,1,10000,10000,3000,Maharashtra,Mumbai,Card
+1625,2026-05-14,C136,Customer_C136,T-Shirt,Fashion,5,800,4000,2000,Delhi,New Delhi,UPI
+1626,2025-10-01,C026,Customer_C026,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,COD
+1627,2025-07-01,C015,Customer_C015,Smart Watch,Electronics,5,10000,50000,15000,Uttar Pradesh,Lucknow,UPI
+1628,2026-02-17,C046,Customer_C046,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,COD
+1629,2025-10-16,C092,Customer_C092,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,UPI
+1630,2025-06-08,C145,Customer_C145,Smart Watch,Electronics,4,10000,40000,12000,Karnataka,Bengaluru,UPI
+1631,2025-04-30,C126,Customer_C126,Laptop,Electronics,1,50000,50000,8000,Bihar,Patna,COD
+1632,2025-01-01,C057,Customer_C057,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,Card
+1633,2026-04-16,C052,Customer_C052,Headphones,Accessories,3,2000,6000,2400,Delhi,New Delhi,Card
+1634,2025-12-27,C016,Customer_C016,Laptop,Electronics,2,50000,100000,16000,Karnataka,Bengaluru,UPI
+1635,2025-12-27,C029,Customer_C029,T-Shirt,Fashion,1,800,800,400,Maharashtra,Mumbai,COD
+1636,2025-06-15,C102,Customer_C102,Mobile,Electronics,3,20000,60000,12000,Maharashtra,Mumbai,UPI
+1637,2025-03-31,C041,Customer_C041,Backpack,Accessories,4,1500,6000,2400,Maharashtra,Mumbai,COD
+1638,2026-02-22,C144,Customer_C144,T-Shirt,Fashion,2,800,1600,800,Karnataka,Bengaluru,UPI
+1639,2025-04-01,C097,Customer_C097,Shoes,Fashion,3,3000,9000,3600,Delhi,New Delhi,COD
+1640,2025-04-04,C001,Customer_C001,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,COD
+1641,2026-04-25,C082,Customer_C082,Smart Watch,Electronics,5,10000,50000,15000,Bihar,Patna,Card
+1642,2025-06-27,C037,Customer_C037,T-Shirt,Fashion,1,800,800,400,Delhi,New Delhi,Card
+1643,2025-01-06,C043,Customer_C043,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,Card
+1644,2025-05-12,C054,Customer_C054,Smart Watch,Electronics,1,10000,10000,3000,Maharashtra,Mumbai,UPI
+1645,2026-01-11,C001,Customer_C001,Laptop,Electronics,4,50000,200000,32000,Uttar Pradesh,Lucknow,Card
+1646,2025-06-29,C043,Customer_C043,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,COD
+1647,2025-11-30,C097,Customer_C097,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,COD
+1648,2026-02-14,C058,Customer_C058,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,UPI
+1649,2026-05-03,C076,Customer_C076,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,UPI
+1650,2025-03-24,C019,Customer_C019,T-Shirt,Fashion,2,800,1600,800,Uttar Pradesh,Lucknow,COD
+1651,2025-11-11,C020,Customer_C020,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,Card
+1652,2026-04-01,C008,Customer_C008,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,Card
+1653,2025-04-16,C041,Customer_C041,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,UPI
+1654,2025-05-02,C105,Customer_C105,Shoes,Fashion,3,3000,9000,3600,Maharashtra,Mumbai,UPI
+1655,2026-03-07,C013,Customer_C013,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,Card
+1656,2025-08-07,C040,Customer_C040,Laptop,Electronics,3,50000,150000,24000,Bihar,Patna,UPI
+1657,2025-01-14,C076,Customer_C076,Keyboard,Electronics,2,2500,5000,1600,Bihar,Patna,UPI
+1658,2026-03-09,C044,Customer_C044,Shoes,Fashion,1,3000,3000,1200,Uttar Pradesh,Lucknow,UPI
+1659,2026-04-04,C079,Customer_C079,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,COD
+1660,2025-04-05,C068,Customer_C068,Mobile,Electronics,5,20000,100000,20000,Uttar Pradesh,Lucknow,Card
+1661,2025-01-23,C098,Customer_C098,T-Shirt,Fashion,2,800,1600,800,Uttar Pradesh,Lucknow,Card
+1662,2026-03-05,C113,Customer_C113,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,Card
+1663,2025-02-13,C145,Customer_C145,Laptop,Electronics,2,50000,100000,16000,Bihar,Patna,COD
+1664,2025-10-11,C089,Customer_C089,Backpack,Accessories,5,1500,7500,3000,Delhi,New Delhi,UPI
+1665,2025-10-21,C100,Customer_C100,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,UPI
+1666,2026-04-08,C122,Customer_C122,Shoes,Fashion,1,3000,3000,1200,Uttar Pradesh,Lucknow,COD
+1667,2025-03-30,C009,Customer_C009,Headphones,Accessories,1,2000,2000,800,Uttar Pradesh,Lucknow,UPI
+1668,2025-08-05,C055,Customer_C055,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,UPI
+1669,2025-05-13,C112,Customer_C112,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,Card
+1670,2025-07-23,C018,Customer_C018,Mobile,Electronics,4,20000,80000,16000,Karnataka,Bengaluru,COD
+1671,2026-04-15,C084,Customer_C084,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,UPI
+1672,2025-03-18,C134,Customer_C134,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,UPI
+1673,2026-02-04,C146,Customer_C146,Mobile,Electronics,1,20000,20000,4000,Karnataka,Bengaluru,UPI
+1674,2025-07-16,C074,Customer_C074,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,COD
+1675,2025-05-22,C125,Customer_C125,Keyboard,Electronics,1,2500,2500,800,Delhi,New Delhi,Card
+1676,2026-04-01,C037,Customer_C037,Backpack,Accessories,1,1500,1500,600,Uttar Pradesh,Lucknow,Card
+1677,2026-04-05,C061,Customer_C061,Laptop,Electronics,4,50000,200000,32000,Maharashtra,Mumbai,Card
+1678,2025-05-24,C006,Customer_C006,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,Card
+1679,2026-05-14,C026,Customer_C026,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,COD
+1680,2025-11-06,C114,Customer_C114,T-Shirt,Fashion,3,800,2400,1200,Uttar Pradesh,Lucknow,COD
+1681,2026-04-13,C023,Customer_C023,Smart Watch,Electronics,4,10000,40000,12000,Delhi,New Delhi,Card
+1682,2026-02-10,C125,Customer_C125,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,UPI
+1683,2025-03-11,C017,Customer_C017,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,COD
+1684,2026-03-25,C146,Customer_C146,Laptop,Electronics,2,50000,100000,16000,Delhi,New Delhi,UPI
+1685,2025-01-26,C015,Customer_C015,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1686,2025-09-16,C051,Customer_C051,Shoes,Fashion,3,3000,9000,3600,Uttar Pradesh,Lucknow,Card
+1687,2025-09-08,C032,Customer_C032,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,COD
+1688,2025-10-10,C115,Customer_C115,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,Card
+1689,2025-05-26,C089,Customer_C089,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1690,2026-02-04,C099,Customer_C099,Laptop,Electronics,2,50000,100000,16000,Karnataka,Bengaluru,UPI
+1691,2025-11-30,C057,Customer_C057,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,Card
+1692,2026-04-12,C132,Customer_C132,Laptop,Electronics,1,50000,50000,8000,Uttar Pradesh,Lucknow,UPI
+1693,2025-11-08,C045,Customer_C045,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,Card
+1694,2025-08-24,C071,Customer_C071,Backpack,Accessories,4,1500,6000,2400,Maharashtra,Mumbai,Card
+1695,2026-02-27,C056,Customer_C056,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,COD
+1696,2025-12-06,C102,Customer_C102,Mobile,Electronics,1,20000,20000,4000,Karnataka,Bengaluru,Card
+1697,2025-09-04,C144,Customer_C144,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,UPI
+1698,2025-05-14,C087,Customer_C087,Shoes,Fashion,3,3000,9000,3600,Maharashtra,Mumbai,COD
+1699,2026-01-27,C077,Customer_C077,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,UPI
+1700,2026-01-05,C015,Customer_C015,Backpack,Accessories,3,1500,4500,1800,Delhi,New Delhi,UPI
+1701,2025-07-27,C128,Customer_C128,Shoes,Fashion,3,3000,9000,3600,Uttar Pradesh,Lucknow,Card
+1702,2025-12-18,C010,Customer_C010,Smart Watch,Electronics,3,10000,30000,9000,Delhi,New Delhi,COD
+1703,2026-03-09,C122,Customer_C122,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,UPI
+1704,2025-08-30,C143,Customer_C143,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,UPI
+1705,2025-04-24,C067,Customer_C067,Headphones,Accessories,3,2000,6000,2400,Bihar,Patna,Card
+1706,2025-07-10,C058,Customer_C058,Shoes,Fashion,4,3000,12000,4800,Maharashtra,Mumbai,Card
+1707,2025-08-29,C150,Customer_C150,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,UPI
+1708,2025-09-14,C150,Customer_C150,Mobile,Electronics,4,20000,80000,16000,Delhi,New Delhi,UPI
+1709,2026-03-22,C098,Customer_C098,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,UPI
+1710,2025-10-19,C036,Customer_C036,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,Card
+1711,2025-09-07,C037,Customer_C037,T-Shirt,Fashion,2,800,1600,800,Bihar,Patna,Card
+1712,2025-08-20,C046,Customer_C046,T-Shirt,Fashion,1,800,800,400,Bihar,Patna,Card
+1713,2025-09-08,C054,Customer_C054,Headphones,Accessories,5,2000,10000,4000,Delhi,New Delhi,UPI
+1714,2025-08-08,C034,Customer_C034,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,Card
+1715,2025-04-13,C099,Customer_C099,Laptop,Electronics,1,50000,50000,8000,Karnataka,Bengaluru,COD
+1716,2025-04-08,C096,Customer_C096,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,UPI
+1717,2025-06-09,C002,Customer_C002,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,UPI
+1718,2025-06-06,C027,Customer_C027,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,UPI
+1719,2025-08-22,C017,Customer_C017,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,COD
+1720,2025-06-25,C134,Customer_C134,T-Shirt,Fashion,4,800,3200,1600,Delhi,New Delhi,Card
+1721,2025-01-10,C092,Customer_C092,Smart Watch,Electronics,2,10000,20000,6000,Uttar Pradesh,Lucknow,UPI
+1722,2025-10-29,C058,Customer_C058,Headphones,Accessories,2,2000,4000,1600,Bihar,Patna,COD
+1723,2025-07-12,C044,Customer_C044,Mobile,Electronics,3,20000,60000,12000,Bihar,Patna,COD
+1724,2025-12-05,C066,Customer_C066,Laptop,Electronics,5,50000,250000,40000,Bihar,Patna,UPI
+1725,2025-08-16,C006,Customer_C006,Laptop,Electronics,1,50000,50000,8000,Uttar Pradesh,Lucknow,Card
+1726,2025-04-16,C032,Customer_C032,Shoes,Fashion,4,3000,12000,4800,Delhi,New Delhi,COD
+1727,2025-12-06,C003,Customer_C003,Shoes,Fashion,4,3000,12000,4800,Bihar,Patna,COD
+1728,2025-09-19,C070,Customer_C070,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,COD
+1729,2025-09-12,C031,Customer_C031,Shoes,Fashion,1,3000,3000,1200,Bihar,Patna,UPI
+1730,2025-07-03,C052,Customer_C052,Shoes,Fashion,5,3000,15000,6000,Delhi,New Delhi,COD
+1731,2025-10-08,C105,Customer_C105,Shoes,Fashion,2,3000,6000,2400,Bihar,Patna,Card
+1732,2025-01-02,C054,Customer_C054,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,UPI
+1733,2025-03-18,C023,Customer_C023,Mobile,Electronics,5,20000,100000,20000,Uttar Pradesh,Lucknow,UPI
+1734,2025-11-26,C131,Customer_C131,Mobile,Electronics,1,20000,20000,4000,Maharashtra,Mumbai,UPI
+1735,2025-01-26,C117,Customer_C117,Shoes,Fashion,3,3000,9000,3600,Uttar Pradesh,Lucknow,UPI
+1736,2026-02-15,C045,Customer_C045,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,COD
+1737,2026-03-12,C081,Customer_C081,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,UPI
+1738,2025-07-03,C003,Customer_C003,Headphones,Accessories,2,2000,4000,1600,Maharashtra,Mumbai,Card
+1739,2025-04-04,C069,Customer_C069,Mobile,Electronics,3,20000,60000,12000,Maharashtra,Mumbai,UPI
+1740,2026-03-04,C103,Customer_C103,Backpack,Accessories,4,1500,6000,2400,Maharashtra,Mumbai,Card
+1741,2025-03-09,C123,Customer_C123,Backpack,Accessories,2,1500,3000,1200,Bihar,Patna,COD
+1742,2026-04-12,C016,Customer_C016,Headphones,Accessories,1,2000,2000,800,Uttar Pradesh,Lucknow,COD
+1743,2025-07-14,C124,Customer_C124,Keyboard,Electronics,2,2500,5000,1600,Karnataka,Bengaluru,Card
+1744,2025-02-27,C008,Customer_C008,Headphones,Accessories,4,2000,8000,3200,Uttar Pradesh,Lucknow,Card
+1745,2025-12-02,C113,Customer_C113,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,Card
+1746,2025-09-25,C004,Customer_C004,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,COD
+1747,2025-06-27,C025,Customer_C025,Backpack,Accessories,2,1500,3000,1200,Uttar Pradesh,Lucknow,COD
+1748,2025-01-28,C099,Customer_C099,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,UPI
+1749,2025-02-08,C041,Customer_C041,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,Card
+1750,2025-01-26,C083,Customer_C083,Smart Watch,Electronics,3,10000,30000,9000,Maharashtra,Mumbai,COD
+1751,2025-02-10,C058,Customer_C058,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,Card
+1752,2025-08-17,C114,Customer_C114,Keyboard,Electronics,1,2500,2500,800,Uttar Pradesh,Lucknow,Card
+1753,2025-07-26,C031,Customer_C031,Keyboard,Electronics,1,2500,2500,800,Bihar,Patna,Card
+1754,2026-05-09,C010,Customer_C010,Laptop,Electronics,1,50000,50000,8000,Karnataka,Bengaluru,COD
+1755,2025-07-06,C078,Customer_C078,Smart Watch,Electronics,4,10000,40000,12000,Maharashtra,Mumbai,UPI
+1756,2026-01-28,C058,Customer_C058,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,COD
+1757,2025-02-19,C122,Customer_C122,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,COD
+1758,2026-03-01,C057,Customer_C057,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,COD
+1759,2026-04-05,C075,Customer_C075,T-Shirt,Fashion,1,800,800,400,Bihar,Patna,UPI
+1760,2025-05-11,C127,Customer_C127,Headphones,Accessories,4,2000,8000,3200,Bihar,Patna,COD
+1761,2025-04-21,C051,Customer_C051,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1762,2025-01-24,C049,Customer_C049,T-Shirt,Fashion,1,800,800,400,Uttar Pradesh,Lucknow,COD
+1763,2026-05-05,C032,Customer_C032,Keyboard,Electronics,4,2500,10000,3200,Karnataka,Bengaluru,COD
+1764,2026-01-12,C035,Customer_C035,Keyboard,Electronics,1,2500,2500,800,Karnataka,Bengaluru,UPI
+1765,2026-04-19,C142,Customer_C142,Backpack,Accessories,5,1500,7500,3000,Uttar Pradesh,Lucknow,COD
+1766,2025-07-18,C046,Customer_C046,Headphones,Accessories,2,2000,4000,1600,Bihar,Patna,COD
+1767,2026-04-14,C083,Customer_C083,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,COD
+1768,2026-05-12,C064,Customer_C064,Shoes,Fashion,4,3000,12000,4800,Maharashtra,Mumbai,Card
+1769,2025-11-05,C116,Customer_C116,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,COD
+1770,2025-12-31,C132,Customer_C132,Shoes,Fashion,5,3000,15000,6000,Maharashtra,Mumbai,COD
+1771,2025-11-16,C142,Customer_C142,Smart Watch,Electronics,2,10000,20000,6000,Delhi,New Delhi,COD
+1772,2025-09-15,C075,Customer_C075,T-Shirt,Fashion,2,800,1600,800,Delhi,New Delhi,COD
+1773,2025-09-03,C083,Customer_C083,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,COD
+1774,2026-03-26,C147,Customer_C147,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,Card
+1775,2025-03-16,C004,Customer_C004,Mobile,Electronics,1,20000,20000,4000,Uttar Pradesh,Lucknow,UPI
+1776,2025-05-27,C015,Customer_C015,Smart Watch,Electronics,3,10000,30000,9000,Delhi,New Delhi,COD
+1777,2025-04-15,C065,Customer_C065,Headphones,Accessories,1,2000,2000,800,Maharashtra,Mumbai,COD
+1778,2025-11-12,C009,Customer_C009,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,COD
+1779,2025-05-02,C144,Customer_C144,Smart Watch,Electronics,5,10000,50000,15000,Uttar Pradesh,Lucknow,COD
+1780,2025-08-02,C074,Customer_C074,Laptop,Electronics,4,50000,200000,32000,Uttar Pradesh,Lucknow,COD
+1781,2025-04-14,C081,Customer_C081,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,COD
+1782,2025-10-07,C114,Customer_C114,Smart Watch,Electronics,3,10000,30000,9000,Karnataka,Bengaluru,COD
+1783,2025-04-01,C051,Customer_C051,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1784,2025-03-03,C020,Customer_C020,Headphones,Accessories,2,2000,4000,1600,Karnataka,Bengaluru,Card
+1785,2025-05-16,C011,Customer_C011,Backpack,Accessories,3,1500,4500,1800,Karnataka,Bengaluru,UPI
+1786,2025-08-27,C042,Customer_C042,Shoes,Fashion,1,3000,3000,1200,Maharashtra,Mumbai,COD
+1787,2025-11-02,C040,Customer_C040,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,UPI
+1788,2025-07-03,C078,Customer_C078,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,UPI
+1789,2025-02-04,C082,Customer_C082,Smart Watch,Electronics,2,10000,20000,6000,Karnataka,Bengaluru,COD
+1790,2025-07-26,C041,Customer_C041,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,UPI
+1791,2025-06-19,C090,Customer_C090,Smart Watch,Electronics,2,10000,20000,6000,Maharashtra,Mumbai,Card
+1792,2025-09-01,C076,Customer_C076,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,COD
+1793,2025-05-04,C003,Customer_C003,Mobile,Electronics,3,20000,60000,12000,Uttar Pradesh,Lucknow,COD
+1794,2026-04-14,C063,Customer_C063,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,UPI
+1795,2025-01-13,C099,Customer_C099,Shoes,Fashion,5,3000,15000,6000,Maharashtra,Mumbai,COD
+1796,2025-06-01,C096,Customer_C096,Keyboard,Electronics,4,2500,10000,3200,Bihar,Patna,COD
+1797,2026-05-01,C050,Customer_C050,T-Shirt,Fashion,5,800,4000,2000,Bihar,Patna,UPI
+1798,2025-12-10,C043,Customer_C043,Laptop,Electronics,1,50000,50000,8000,Delhi,New Delhi,COD
+1799,2025-10-03,C055,Customer_C055,Backpack,Accessories,1,1500,1500,600,Delhi,New Delhi,COD
+1800,2025-08-24,C112,Customer_C112,Mobile,Electronics,2,20000,40000,8000,Bihar,Patna,COD
+1801,2025-01-28,C085,Customer_C085,Laptop,Electronics,1,50000,50000,8000,Bihar,Patna,UPI
+1802,2026-04-12,C065,Customer_C065,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,Card
+1803,2025-08-10,C105,Customer_C105,Backpack,Accessories,4,1500,6000,2400,Uttar Pradesh,Lucknow,Card
+1804,2025-01-04,C005,Customer_C005,Backpack,Accessories,1,1500,1500,600,Karnataka,Bengaluru,COD
+1805,2026-04-21,C017,Customer_C017,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,COD
+1806,2025-02-14,C028,Customer_C028,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,Card
+1807,2025-08-31,C113,Customer_C113,Backpack,Accessories,4,1500,6000,2400,Bihar,Patna,UPI
+1808,2026-02-12,C137,Customer_C137,Smart Watch,Electronics,2,10000,20000,6000,Uttar Pradesh,Lucknow,COD
+1809,2026-05-06,C076,Customer_C076,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,UPI
+1810,2025-01-03,C142,Customer_C142,Headphones,Accessories,1,2000,2000,800,Bihar,Patna,COD
+1811,2026-01-19,C101,Customer_C101,Mobile,Electronics,3,20000,60000,12000,Delhi,New Delhi,COD
+1812,2025-03-14,C089,Customer_C089,Smart Watch,Electronics,4,10000,40000,12000,Karnataka,Bengaluru,UPI
+1813,2025-04-10,C048,Customer_C048,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,UPI
+1814,2025-11-27,C047,Customer_C047,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,COD
+1815,2025-02-20,C019,Customer_C019,Shoes,Fashion,1,3000,3000,1200,Maharashtra,Mumbai,UPI
+1816,2025-03-07,C149,Customer_C149,Keyboard,Electronics,3,2500,7500,2400,Maharashtra,Mumbai,COD
+1817,2025-02-05,C061,Customer_C061,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,UPI
+1818,2025-11-12,C082,Customer_C082,Keyboard,Electronics,4,2500,10000,3200,Maharashtra,Mumbai,COD
+1819,2025-07-06,C079,Customer_C079,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,Card
+1820,2025-05-07,C110,Customer_C110,Headphones,Accessories,1,2000,2000,800,Maharashtra,Mumbai,UPI
+1821,2025-12-14,C112,Customer_C112,Shoes,Fashion,3,3000,9000,3600,Delhi,New Delhi,COD
+1822,2025-07-03,C085,Customer_C085,Keyboard,Electronics,4,2500,10000,3200,Uttar Pradesh,Lucknow,Card
+1823,2025-02-11,C125,Customer_C125,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,Card
+1824,2026-01-08,C036,Customer_C036,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,UPI
+1825,2025-07-27,C005,Customer_C005,Laptop,Electronics,5,50000,250000,40000,Karnataka,Bengaluru,COD
+1826,2025-10-06,C055,Customer_C055,Laptop,Electronics,5,50000,250000,40000,Maharashtra,Mumbai,COD
+1827,2025-04-25,C121,Customer_C121,Headphones,Accessories,3,2000,6000,2400,Uttar Pradesh,Lucknow,COD
+1828,2025-09-19,C075,Customer_C075,Headphones,Accessories,4,2000,8000,3200,Karnataka,Bengaluru,UPI
+1829,2025-12-06,C102,Customer_C102,T-Shirt,Fashion,5,800,4000,2000,Bihar,Patna,UPI
+1830,2025-04-02,C043,Customer_C043,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,COD
+1831,2025-01-21,C145,Customer_C145,Headphones,Accessories,4,2000,8000,3200,Maharashtra,Mumbai,UPI
+1832,2025-07-09,C125,Customer_C125,Smart Watch,Electronics,1,10000,10000,3000,Maharashtra,Mumbai,UPI
+1833,2025-07-18,C011,Customer_C011,Smart Watch,Electronics,5,10000,50000,15000,Maharashtra,Mumbai,Card
+1834,2025-02-22,C117,Customer_C117,Laptop,Electronics,1,50000,50000,8000,Maharashtra,Mumbai,COD
+1835,2025-10-06,C134,Customer_C134,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,COD
+1836,2025-10-28,C045,Customer_C045,Backpack,Accessories,4,1500,6000,2400,Maharashtra,Mumbai,COD
+1837,2025-09-22,C020,Customer_C020,Shoes,Fashion,4,3000,12000,4800,Delhi,New Delhi,Card
+1838,2026-03-31,C091,Customer_C091,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,COD
+1839,2025-04-28,C002,Customer_C002,Headphones,Accessories,4,2000,8000,3200,Delhi,New Delhi,UPI
+1840,2025-04-06,C132,Customer_C132,Shoes,Fashion,2,3000,6000,2400,Delhi,New Delhi,UPI
+1841,2026-02-20,C093,Customer_C093,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,Card
+1842,2025-04-18,C030,Customer_C030,Keyboard,Electronics,4,2500,10000,3200,Uttar Pradesh,Lucknow,COD
+1843,2025-01-23,C042,Customer_C042,Backpack,Accessories,1,1500,1500,600,Delhi,New Delhi,UPI
+1844,2025-01-21,C147,Customer_C147,Headphones,Accessories,2,2000,4000,1600,Karnataka,Bengaluru,COD
+1845,2026-04-18,C038,Customer_C038,Laptop,Electronics,2,50000,100000,16000,Maharashtra,Mumbai,UPI
+1846,2025-11-23,C133,Customer_C133,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,UPI
+1847,2025-11-07,C073,Customer_C073,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,Card
+1848,2025-11-04,C124,Customer_C124,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,UPI
+1849,2025-05-16,C150,Customer_C150,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,UPI
+1850,2025-02-05,C088,Customer_C088,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,UPI
+1851,2025-01-09,C097,Customer_C097,Backpack,Accessories,2,1500,3000,1200,Bihar,Patna,UPI
+1852,2025-02-19,C134,Customer_C134,Backpack,Accessories,2,1500,3000,1200,Karnataka,Bengaluru,UPI
+1853,2026-01-21,C122,Customer_C122,Laptop,Electronics,5,50000,250000,40000,Karnataka,Bengaluru,UPI
+1854,2025-10-04,C024,Customer_C024,Keyboard,Electronics,2,2500,5000,1600,Karnataka,Bengaluru,UPI
+1855,2025-12-24,C111,Customer_C111,Backpack,Accessories,3,1500,4500,1800,Bihar,Patna,COD
+1856,2025-06-29,C110,Customer_C110,Smart Watch,Electronics,4,10000,40000,12000,Uttar Pradesh,Lucknow,COD
+1857,2025-05-11,C148,Customer_C148,Mobile,Electronics,4,20000,80000,16000,Delhi,New Delhi,Card
+1858,2026-03-25,C060,Customer_C060,Mobile,Electronics,3,20000,60000,12000,Karnataka,Bengaluru,COD
+1859,2025-12-30,C105,Customer_C105,Shoes,Fashion,2,3000,6000,2400,Bihar,Patna,COD
+1860,2025-07-12,C002,Customer_C002,Mobile,Electronics,5,20000,100000,20000,Bihar,Patna,COD
+1861,2025-02-24,C053,Customer_C053,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,UPI
+1862,2025-08-05,C110,Customer_C110,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,COD
+1863,2025-07-31,C094,Customer_C094,Shoes,Fashion,4,3000,12000,4800,Delhi,New Delhi,COD
+1864,2025-10-14,C143,Customer_C143,Keyboard,Electronics,2,2500,5000,1600,Maharashtra,Mumbai,COD
+1865,2025-06-26,C124,Customer_C124,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,COD
+1866,2025-08-17,C102,Customer_C102,Headphones,Accessories,1,2000,2000,800,Delhi,New Delhi,COD
+1867,2025-07-25,C042,Customer_C042,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,Card
+1868,2026-05-09,C141,Customer_C141,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,COD
+1869,2026-04-20,C002,Customer_C002,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,COD
+1870,2025-04-24,C112,Customer_C112,Mobile,Electronics,1,20000,20000,4000,Maharashtra,Mumbai,Card
+1871,2025-11-11,C021,Customer_C021,Laptop,Electronics,4,50000,200000,32000,Uttar Pradesh,Lucknow,COD
+1872,2026-04-30,C134,Customer_C134,Shoes,Fashion,5,3000,15000,6000,Bihar,Patna,UPI
+1873,2026-03-12,C127,Customer_C127,Keyboard,Electronics,1,2500,2500,800,Delhi,New Delhi,COD
+1874,2026-02-06,C133,Customer_C133,Shoes,Fashion,2,3000,6000,2400,Bihar,Patna,COD
+1875,2025-12-12,C131,Customer_C131,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,UPI
+1876,2025-02-14,C093,Customer_C093,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,Card
+1877,2025-10-28,C103,Customer_C103,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,UPI
+1878,2025-10-09,C133,Customer_C133,Laptop,Electronics,1,50000,50000,8000,Bihar,Patna,Card
+1879,2025-04-26,C144,Customer_C144,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,COD
+1880,2025-01-03,C050,Customer_C050,Keyboard,Electronics,4,2500,10000,3200,Karnataka,Bengaluru,Card
+1881,2025-10-14,C045,Customer_C045,Backpack,Accessories,5,1500,7500,3000,Bihar,Patna,UPI
+1882,2026-02-16,C129,Customer_C129,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,COD
+1883,2025-10-16,C066,Customer_C066,Shoes,Fashion,4,3000,12000,4800,Uttar Pradesh,Lucknow,Card
+1884,2026-04-05,C063,Customer_C063,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,COD
+1885,2025-02-04,C008,Customer_C008,Keyboard,Electronics,1,2500,2500,800,Maharashtra,Mumbai,Card
+1886,2026-05-05,C057,Customer_C057,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,Card
+1887,2025-05-28,C133,Customer_C133,Laptop,Electronics,3,50000,150000,24000,Delhi,New Delhi,UPI
+1888,2026-04-22,C103,Customer_C103,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,UPI
+1889,2026-04-03,C122,Customer_C122,T-Shirt,Fashion,3,800,2400,1200,Delhi,New Delhi,COD
+1890,2026-01-13,C069,Customer_C069,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,UPI
+1891,2025-04-28,C061,Customer_C061,Smart Watch,Electronics,3,10000,30000,9000,Delhi,New Delhi,UPI
+1892,2025-03-03,C064,Customer_C064,T-Shirt,Fashion,2,800,1600,800,Bihar,Patna,UPI
+1893,2026-03-11,C127,Customer_C127,Laptop,Electronics,5,50000,250000,40000,Bihar,Patna,Card
+1894,2026-03-21,C096,Customer_C096,T-Shirt,Fashion,4,800,3200,1600,Karnataka,Bengaluru,Card
+1895,2025-07-23,C126,Customer_C126,Headphones,Accessories,5,2000,10000,4000,Maharashtra,Mumbai,UPI
+1896,2026-02-14,C148,Customer_C148,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,Card
+1897,2025-07-21,C123,Customer_C123,Laptop,Electronics,5,50000,250000,40000,Maharashtra,Mumbai,COD
+1898,2025-08-24,C045,Customer_C045,Keyboard,Electronics,1,2500,2500,800,Karnataka,Bengaluru,Card
+1899,2025-10-25,C003,Customer_C003,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,UPI
+1900,2025-04-06,C084,Customer_C084,T-Shirt,Fashion,5,800,4000,2000,Maharashtra,Mumbai,COD
+1901,2026-05-06,C068,Customer_C068,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1902,2025-08-06,C088,Customer_C088,T-Shirt,Fashion,2,800,1600,800,Uttar Pradesh,Lucknow,UPI
+1903,2025-05-24,C108,Customer_C108,T-Shirt,Fashion,3,800,2400,1200,Uttar Pradesh,Lucknow,Card
+1904,2026-02-21,C047,Customer_C047,Headphones,Accessories,5,2000,10000,4000,Delhi,New Delhi,UPI
+1905,2026-03-15,C070,Customer_C070,Smart Watch,Electronics,5,10000,50000,15000,Uttar Pradesh,Lucknow,Card
+1906,2026-02-17,C051,Customer_C051,Headphones,Accessories,2,2000,4000,1600,Uttar Pradesh,Lucknow,UPI
+1907,2026-04-03,C046,Customer_C046,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,COD
+1908,2025-05-09,C133,Customer_C133,T-Shirt,Fashion,4,800,3200,1600,Maharashtra,Mumbai,COD
+1909,2025-12-20,C146,Customer_C146,Laptop,Electronics,4,50000,200000,32000,Bihar,Patna,UPI
+1910,2026-03-06,C016,Customer_C016,Smart Watch,Electronics,3,10000,30000,9000,Uttar Pradesh,Lucknow,COD
+1911,2025-07-04,C025,Customer_C025,Keyboard,Electronics,3,2500,7500,2400,Maharashtra,Mumbai,Card
+1912,2025-07-30,C144,Customer_C144,Shoes,Fashion,3,3000,9000,3600,Bihar,Patna,UPI
+1913,2025-11-29,C090,Customer_C090,Smart Watch,Electronics,5,10000,50000,15000,Karnataka,Bengaluru,COD
+1914,2025-06-16,C138,Customer_C138,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,COD
+1915,2025-07-15,C131,Customer_C131,Keyboard,Electronics,4,2500,10000,3200,Bihar,Patna,COD
+1916,2025-11-24,C074,Customer_C074,Keyboard,Electronics,2,2500,5000,1600,Delhi,New Delhi,Card
+1917,2025-03-24,C108,Customer_C108,Backpack,Accessories,1,1500,1500,600,Bihar,Patna,Card
+1918,2025-12-30,C059,Customer_C059,T-Shirt,Fashion,3,800,2400,1200,Maharashtra,Mumbai,Card
+1919,2026-01-18,C102,Customer_C102,Shoes,Fashion,4,3000,12000,4800,Maharashtra,Mumbai,COD
+1920,2025-04-05,C134,Customer_C134,Keyboard,Electronics,4,2500,10000,3200,Delhi,New Delhi,UPI
+1921,2025-04-18,C033,Customer_C033,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,UPI
+1922,2026-04-25,C102,Customer_C102,Mobile,Electronics,1,20000,20000,4000,Bihar,Patna,Card
+1923,2025-09-26,C141,Customer_C141,Laptop,Electronics,1,50000,50000,8000,Uttar Pradesh,Lucknow,UPI
+1924,2025-02-13,C027,Customer_C027,Shoes,Fashion,5,3000,15000,6000,Delhi,New Delhi,COD
+1925,2026-01-13,C100,Customer_C100,Shoes,Fashion,2,3000,6000,2400,Delhi,New Delhi,Card
+1926,2026-03-06,C114,Customer_C114,Headphones,Accessories,2,2000,4000,1600,Karnataka,Bengaluru,UPI
+1927,2026-03-19,C008,Customer_C008,Laptop,Electronics,3,50000,150000,24000,Maharashtra,Mumbai,Card
+1928,2025-03-11,C120,Customer_C120,Shoes,Fashion,5,3000,15000,6000,Uttar Pradesh,Lucknow,COD
+1929,2025-08-22,C139,Customer_C139,Headphones,Accessories,5,2000,10000,4000,Karnataka,Bengaluru,COD
+1930,2025-06-08,C145,Customer_C145,Backpack,Accessories,5,1500,7500,3000,Karnataka,Bengaluru,Card
+1931,2025-06-07,C124,Customer_C124,Smart Watch,Electronics,1,10000,10000,3000,Uttar Pradesh,Lucknow,Card
+1932,2025-01-06,C106,Customer_C106,Shoes,Fashion,2,3000,6000,2400,Maharashtra,Mumbai,UPI
+1933,2025-08-29,C134,Customer_C134,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,COD
+1934,2025-01-05,C003,Customer_C003,Keyboard,Electronics,4,2500,10000,3200,Maharashtra,Mumbai,Card
+1935,2025-07-11,C075,Customer_C075,Smart Watch,Electronics,1,10000,10000,3000,Karnataka,Bengaluru,UPI
+1936,2025-03-25,C106,Customer_C106,Backpack,Accessories,4,1500,6000,2400,Delhi,New Delhi,COD
+1937,2025-02-10,C100,Customer_C100,Backpack,Accessories,2,1500,3000,1200,Maharashtra,Mumbai,Card
+1938,2026-02-19,C062,Customer_C062,Shoes,Fashion,3,3000,9000,3600,Karnataka,Bengaluru,Card
+1939,2025-03-11,C106,Customer_C106,Smart Watch,Electronics,1,10000,10000,3000,Delhi,New Delhi,Card
+1940,2025-05-20,C029,Customer_C029,Keyboard,Electronics,5,2500,12500,4000,Uttar Pradesh,Lucknow,COD
+1941,2025-03-19,C126,Customer_C126,Smart Watch,Electronics,3,10000,30000,9000,Bihar,Patna,UPI
+1942,2025-05-25,C137,Customer_C137,Laptop,Electronics,2,50000,100000,16000,Bihar,Patna,Card
+1943,2025-02-16,C033,Customer_C033,Keyboard,Electronics,1,2500,2500,800,Delhi,New Delhi,UPI
+1944,2025-08-04,C004,Customer_C004,Keyboard,Electronics,2,2500,5000,1600,Maharashtra,Mumbai,Card
+1945,2025-06-19,C128,Customer_C128,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,UPI
+1946,2025-02-06,C038,Customer_C038,Laptop,Electronics,3,50000,150000,24000,Uttar Pradesh,Lucknow,COD
+1947,2026-02-23,C121,Customer_C121,Headphones,Accessories,2,2000,4000,1600,Maharashtra,Mumbai,Card
+1948,2026-01-30,C004,Customer_C004,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,Card
+1949,2026-01-12,C064,Customer_C064,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,UPI
+1950,2025-12-15,C134,Customer_C134,Smart Watch,Electronics,4,10000,40000,12000,Uttar Pradesh,Lucknow,Card
+1951,2025-09-24,C083,Customer_C083,Headphones,Accessories,1,2000,2000,800,Karnataka,Bengaluru,UPI
+1952,2025-07-04,C065,Customer_C065,Keyboard,Electronics,3,2500,7500,2400,Delhi,New Delhi,UPI
+1953,2025-06-16,C056,Customer_C056,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,UPI
+1954,2025-07-22,C043,Customer_C043,Shoes,Fashion,5,3000,15000,6000,Bihar,Patna,UPI
+1955,2025-12-19,C003,Customer_C003,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,COD
+1956,2025-03-22,C040,Customer_C040,T-Shirt,Fashion,1,800,800,400,Delhi,New Delhi,Card
+1957,2025-07-02,C024,Customer_C024,T-Shirt,Fashion,1,800,800,400,Bihar,Patna,COD
+1958,2025-04-30,C040,Customer_C040,Mobile,Electronics,2,20000,40000,8000,Uttar Pradesh,Lucknow,Card
+1959,2025-01-11,C143,Customer_C143,T-Shirt,Fashion,4,800,3200,1600,Delhi,New Delhi,COD
+1960,2026-04-06,C097,Customer_C097,T-Shirt,Fashion,2,800,1600,800,Maharashtra,Mumbai,UPI
+1961,2025-10-05,C125,Customer_C125,Keyboard,Electronics,5,2500,12500,4000,Maharashtra,Mumbai,COD
+1962,2025-10-06,C126,Customer_C126,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,Card
+1963,2026-04-14,C083,Customer_C083,Keyboard,Electronics,3,2500,7500,2400,Karnataka,Bengaluru,COD
+1964,2025-08-19,C042,Customer_C042,Mobile,Electronics,5,20000,100000,20000,Delhi,New Delhi,Card
+1965,2026-02-02,C068,Customer_C068,T-Shirt,Fashion,4,800,3200,1600,Bihar,Patna,COD
+1966,2025-11-14,C130,Customer_C130,Backpack,Accessories,2,1500,3000,1200,Bihar,Patna,Card
+1967,2026-02-24,C062,Customer_C062,T-Shirt,Fashion,1,800,800,400,Karnataka,Bengaluru,Card
+1968,2025-11-10,C049,Customer_C049,Keyboard,Electronics,5,2500,12500,4000,Delhi,New Delhi,Card
+1969,2025-02-19,C083,Customer_C083,Backpack,Accessories,3,1500,4500,1800,Bihar,Patna,COD
+1970,2026-03-24,C018,Customer_C018,Laptop,Electronics,2,50000,100000,16000,Delhi,New Delhi,UPI
+1971,2025-02-20,C052,Customer_C052,Mobile,Electronics,4,20000,80000,16000,Delhi,New Delhi,UPI
+1972,2025-11-16,C147,Customer_C147,Backpack,Accessories,4,1500,6000,2400,Karnataka,Bengaluru,COD
+1973,2025-11-07,C066,Customer_C066,Laptop,Electronics,3,50000,150000,24000,Delhi,New Delhi,COD
+1974,2026-04-21,C019,Customer_C019,Laptop,Electronics,2,50000,100000,16000,Uttar Pradesh,Lucknow,UPI
+1975,2026-01-16,C120,Customer_C120,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,Card
+1976,2025-09-28,C095,Customer_C095,Laptop,Electronics,5,50000,250000,40000,Maharashtra,Mumbai,UPI
+1977,2026-05-07,C019,Customer_C019,Shoes,Fashion,1,3000,3000,1200,Delhi,New Delhi,COD
+1978,2025-07-17,C025,Customer_C025,Mobile,Electronics,2,20000,40000,8000,Karnataka,Bengaluru,UPI
+1979,2025-10-13,C050,Customer_C050,Smart Watch,Electronics,5,10000,50000,15000,Delhi,New Delhi,COD
+1980,2025-07-03,C143,Customer_C143,Backpack,Accessories,1,1500,1500,600,Karnataka,Bengaluru,COD
+1981,2026-02-10,C118,Customer_C118,Backpack,Accessories,1,1500,1500,600,Delhi,New Delhi,UPI
+1982,2025-12-03,C141,Customer_C141,Backpack,Accessories,5,1500,7500,3000,Maharashtra,Mumbai,UPI
+1983,2025-10-09,C137,Customer_C137,Keyboard,Electronics,3,2500,7500,2400,Maharashtra,Mumbai,Card
+1984,2025-11-08,C096,Customer_C096,Backpack,Accessories,4,1500,6000,2400,Maharashtra,Mumbai,UPI
+1985,2026-04-20,C145,Customer_C145,Smart Watch,Electronics,4,10000,40000,12000,Karnataka,Bengaluru,COD
+1986,2026-05-07,C066,Customer_C066,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,Card
+1987,2025-01-09,C001,Customer_C001,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,COD
+1988,2025-04-24,C035,Customer_C035,Shoes,Fashion,1,3000,3000,1200,Maharashtra,Mumbai,UPI
+1989,2025-09-19,C081,Customer_C081,Laptop,Electronics,3,50000,150000,24000,Karnataka,Bengaluru,COD
+1990,2025-08-24,C147,Customer_C147,Headphones,Accessories,1,2000,2000,800,Bihar,Patna,Card
+1991,2026-04-01,C040,Customer_C040,Headphones,Accessories,3,2000,6000,2400,Maharashtra,Mumbai,COD
+1992,2025-02-17,C064,Customer_C064,Smart Watch,Electronics,3,10000,30000,9000,Maharashtra,Mumbai,COD
+1993,2026-02-10,C103,Customer_C103,Smart Watch,Electronics,1,10000,10000,3000,Maharashtra,Mumbai,Card
+1994,2025-11-01,C045,Customer_C045,Keyboard,Electronics,5,2500,12500,4000,Bihar,Patna,COD
+1995,2025-02-10,C077,Customer_C077,Laptop,Electronics,5,50000,250000,40000,Uttar Pradesh,Lucknow,UPI
+1996,2026-04-22,C086,Customer_C086,T-Shirt,Fashion,4,800,3200,1600,Uttar Pradesh,Lucknow,UPI
+1997,2025-06-06,C059,Customer_C059,Laptop,Electronics,4,50000,200000,32000,Bihar,Patna,COD
+1998,2025-03-18,C011,Customer_C011,T-Shirt,Fashion,5,800,4000,2000,Karnataka,Bengaluru,Card
+1999,2025-12-11,C129,Customer_C129,Smart Watch,Electronics,2,10000,20000,6000,Bihar,Patna,COD
+2000,2025-09-16,C101,Customer_C101,Keyboard,Electronics,5,2500,12500,4000,Karnataka,Bengaluru,UPI
